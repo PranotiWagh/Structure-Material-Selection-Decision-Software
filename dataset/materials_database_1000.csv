@@ -1,0 +1,1001 @@
+material_id,material_name,category,compressive_strength_mpa,tensile_strength_mpa,density_kg_m3,cost_inr_m3,durability_score,corrosion_resistance_score,fire_resistance_score,co2_emission_kg_m3,maintenance_score
+M1001,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1001",Weathering Steel,495.6,443.85,7878.0,84900.0,7.2,4.6,6.8,1034.4,5.7
+M1002,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1002",Structural Steel,266.9,502.70,7893.9,50000.0,10.0,7.7,7.7,70.8,5.1
+M1003,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1003",FRP Composites,529.9,960.67,1889.5,92500.0,5.5,7.7,6.3,2950.5,7.3
+M1004,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1004",Ultra High Performance Concrete,151.2,11.15,2452.0,24400.0,7.8,6.3,4.1,731.1,6.2
+M1005,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1005",Weathering Steel,473.2,528.32,7817.3,79800.0,5.9,8.5,6.6,663.4,7.8
+M1006,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1006",High Performance Concrete,63.3,5.87,2489.5,9400.0,9.6,4.5,5.2,183.4,6.6
+M1007,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1007",Sustainable & Eco-Friendly,36.8,5.07,2289.2,6500.0,7.7,4.8,8.8,269.9,9.9
+M1008,"Plain Cement Concrete PCC M20 (IS 456) #1008",Normal Concrete,23.0,2.01,2422.3,5600.0,8.6,8.6,4.4,1107.5,5.6
+M1009,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1009",Timber / Engineered Wood,54.9,53.20,472.2,35900.0,6.6,8.4,7.8,2667.3,7.4
+M1010,"Precast Pier Cap & U-Girder M60 (IRC:112) #1010",Precast Concrete,60.5,5.67,2385.4,9200.0,5.2,8.3,4.7,1346.0,6.0
+M1011,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1011",Weathering Steel,457.0,493.23,7869.6,73500.0,8.0,7.2,5.2,2831.4,8.0
+M1012,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1012",Structural Steel,514.1,468.52,7829.6,53200.0,7.3,5.3,6.5,2655.7,6.6
+M1013,"Structural Aluminum Alloy 6061-T6 (IS 733) #1013",Non-Ferrous Metals,253.4,365.09,2654.4,158900.0,5.0,6.1,5.8,535.7,7.7
+M1014,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1014",Fiber Reinforced Concrete,52.3,6.08,2424.4,9300.0,6.1,7.3,6.4,241.4,6.3
+M1015,"Precast Segmental Box Girder M50 (IRC:112) #1015",Precast Concrete,55.9,5.64,2372.2,12500.0,6.3,9.9,6.5,147.5,6.7
+M1016,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1016",Ultra High Performance Concrete,151.3,11.72,2517.2,20100.0,8.0,4.5,6.2,764.4,9.0
+M1017,"Underwater Tremie Concrete M30 (IS 456) #1017",Specialty Concrete,29.8,2.02,2071.5,7400.0,5.8,7.0,8.2,2582.2,6.6
+M1018,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1018",Ultra High Performance Concrete,154.0,13.67,2502.3,15100.0,9.7,6.4,7.1,2521.2,8.4
+M1019,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1019",Timber / Engineered Wood,38.4,64.78,693.5,33000.0,5.9,9.9,7.1,819.4,10.0
+M1020,"Structural Aluminum Alloy 6061-T6 (IS 733) #1020",Non-Ferrous Metals,283.7,361.22,2637.7,136700.0,8.5,9.1,9.1,1243.3,9.4
+M1021,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1021",FRP Composites,771.0,1920.94,1767.6,118600.0,6.9,9.6,9.8,887.6,6.5
+M1022,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1022",Structural Steel,384.5,598.06,7817.6,50500.0,7.5,5.1,6.2,2245.3,8.6
+M1023,"Reinforced Cement Concrete RCC M30 (IS 456) #1023",Normal Concrete,28.1,2.61,2395.4,4900.0,7.9,9.9,6.9,2723.0,7.2
+M1024,"Precast Segmental Box Girder M50 (IRC:112) #1024",Precast Concrete,54.4,5.51,2479.6,9000.0,7.5,7.4,8.6,178.6,10.0
+M1025,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1025",Sustainable & Eco-Friendly,37.0,5.21,2386.9,8800.0,6.7,7.3,7.4,2942.0,5.4
+M1026,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1026",Fiber Reinforced Concrete,39.8,6.07,2448.5,10200.0,7.0,9.1,9.6,257.7,6.0
+M1027,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1027",Structural Steel,357.6,338.96,7829.5,59700.0,9.2,4.8,8.3,1680.8,6.5
+M1028,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1028",Ultra High Performance Concrete,113.1,12.28,2462.2,14100.0,8.1,5.2,4.4,1220.5,5.3
+M1029,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1029",Weathering Steel,403.3,495.25,7843.8,86800.0,6.6,4.9,9.9,2524.9,9.3
+M1030,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1030",Specialty Concrete,15.6,1.89,1876.0,6000.0,9.1,5.6,9.8,1398.9,9.2
+M1031,"Underwater Tremie Concrete M30 (IS 456) #1031",Specialty Concrete,21.2,2.41,1596.8,5400.0,9.8,8.3,4.2,1226.5,7.2
+M1032,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1032",Weathering Steel,430.1,443.96,7808.1,80700.0,8.4,4.3,9.5,1354.9,6.2
+M1033,"Engineered Teak & Hardwood Composite (IS 3629) #1033",Timber / Engineered Wood,56.4,50.40,784.2,50800.0,7.8,7.7,6.5,780.8,6.8
+M1034,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1034",Structural Steel,254.3,290.63,7804.6,51200.0,9.3,8.2,6.8,338.6,7.5
+M1035,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1035",Specialty Concrete,17.6,2.06,1779.0,6800.0,8.2,4.3,6.2,1896.3,7.5
+M1036,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1036",Stainless Steel,631.7,540.73,7914.1,195000.0,5.1,7.5,9.6,1747.6,6.9
+M1037,"Reinforced Cement Concrete RCC M25 (IS 456) #1037",Normal Concrete,26.9,2.65,2441.2,5100.0,9.8,9.4,5.2,254.6,5.5
+M1038,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1038",Sustainable & Eco-Friendly,32.4,4.71,2217.8,6600.0,9.2,4.1,8.9,881.5,5.6
+M1039,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1039",High Performance Concrete,58.9,5.73,2473.5,10200.0,6.4,5.1,8.5,2430.2,10.0
+M1040,"Underwater Tremie Concrete M30 (IS 456) #1040",Specialty Concrete,20.6,2.51,1738.6,7800.0,9.3,6.6,8.5,2275.9,5.5
+M1041,"Reinforced Cement Concrete RCC M25 (IS 456) #1041",Normal Concrete,27.6,2.99,2348.0,5800.0,6.9,4.1,9.4,319.3,6.6
+M1042,"Underwater Tremie Concrete M30 (IS 456) #1042",Specialty Concrete,23.6,2.32,1813.9,5900.0,6.6,8.0,8.5,2385.2,8.9
+M1043,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1043",Fiber Reinforced Concrete,47.4,5.23,2455.0,10500.0,9.4,6.1,4.7,471.8,8.8
+M1044,"Plain Cement Concrete PCC M20 (IS 456) #1044",Normal Concrete,21.5,2.10,2405.1,4600.0,9.1,8.2,4.5,300.3,9.9
+M1045,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1045",Sustainable & Eco-Friendly,39.3,5.03,2436.8,9000.0,8.8,6.3,4.5,2342.6,7.8
+M1046,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1046",Masonry,13.9,0.52,1313.6,3000.0,7.3,4.3,4.7,396.7,8.2
+M1047,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1047",Ultra High Performance Concrete,142.5,14.74,2506.2,17100.0,9.3,5.3,9.8,85.9,9.8
+M1048,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1048",Fiber Reinforced Concrete,36.1,8.70,2491.9,9600.0,8.5,4.5,5.0,689.6,6.5
+M1049,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1049",Fiber Reinforced Concrete,52.4,6.54,2473.7,12600.0,9.8,4.3,6.4,364.9,6.7
+M1050,"Structural Aluminum Alloy 6063-T6 (IS 733) #1050",Non-Ferrous Metals,297.0,282.12,2645.9,136000.0,6.8,5.6,6.7,145.3,6.4
+M1051,"Underwater Tremie Concrete M30 (IS 456) #1051",Specialty Concrete,24.0,1.85,1593.2,5200.0,9.7,6.5,7.5,2761.6,5.4
+M1052,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1052",High Performance Concrete,56.5,4.16,2441.1,10100.0,7.4,9.9,6.3,2261.3,7.0
+M1053,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1053",FRP Composites,606.1,982.57,1514.7,85000.0,5.1,4.5,8.2,1626.3,8.7
+M1054,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1054",Fiber Reinforced Concrete,49.6,7.90,2475.7,10200.0,6.2,5.2,5.5,860.5,6.0
+M1055,"Reinforced Cement Concrete RCC M30 (IS 456) #1055",Normal Concrete,31.4,2.06,2340.3,4500.0,7.5,6.9,9.0,957.9,9.1
+M1056,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1056",Fiber Reinforced Concrete,37.2,8.17,2459.0,10700.0,7.1,8.7,7.8,2424.9,9.5
+M1057,"Structural Aluminum Alloy 6063-T6 (IS 733) #1057",Non-Ferrous Metals,347.1,317.29,2727.3,153300.0,5.5,8.4,7.3,1380.2,9.6
+M1058,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1058",Weathering Steel,462.8,510.69,7879.6,81500.0,9.2,8.6,4.4,185.3,8.1
+M1059,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1059",Sustainable & Eco-Friendly,35.2,4.45,2285.4,7400.0,7.3,7.5,6.4,2108.1,5.9
+M1060,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1060",Stainless Steel,582.3,718.58,8003.0,218100.0,8.0,5.3,8.9,1068.0,6.7
+M1061,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1061",Fiber Reinforced Concrete,48.7,7.14,2435.6,12500.0,5.6,6.0,5.9,322.3,7.4
+M1062,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1062",Stainless Steel,674.7,730.22,7912.2,169400.0,9.0,8.5,5.1,667.6,6.9
+M1063,"Precast Segmental Box Girder M50 (IRC:112) #1063",Precast Concrete,53.5,4.61,2419.4,11400.0,5.2,5.5,8.3,2690.9,7.6
+M1064,"Structural Aluminum Alloy 6063-T6 (IS 733) #1064",Non-Ferrous Metals,216.1,291.59,2706.5,134500.0,6.3,6.3,4.1,1000.1,6.1
+M1065,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1065",Precast Concrete,38.6,6.17,2439.0,11100.0,8.9,7.0,4.5,1634.5,7.9
+M1066,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1066",Stainless Steel,586.3,531.90,7956.8,175400.0,8.2,7.4,6.1,2960.2,8.0
+M1067,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1067",Fiber Reinforced Concrete,37.5,5.61,2424.6,9200.0,5.9,5.7,5.0,2695.5,5.4
+M1068,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1068",Stainless Steel,639.4,749.31,8079.3,190300.0,9.6,4.0,9.9,1497.7,8.6
+M1069,"Engineered Teak & Hardwood Composite (IS 3629) #1069",Timber / Engineered Wood,58.7,64.43,616.8,54400.0,6.0,9.8,8.3,638.5,8.7
+M1070,"Reinforced Cement Concrete RCC M30 (IS 456) #1070",Normal Concrete,29.2,2.35,2387.2,4700.0,7.4,7.2,4.3,1043.0,5.7
+M1071,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1071",Masonry,14.9,0.75,1805.3,3900.0,8.4,8.6,7.6,1441.1,7.1
+M1072,"Reinforced Cement Concrete RCC M30 (IS 456) #1072",Normal Concrete,32.8,2.90,2361.3,5900.0,10.0,5.2,6.3,2783.0,8.6
+M1073,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1073",Sustainable & Eco-Friendly,33.5,4.99,2250.4,6100.0,5.8,8.9,8.0,1593.0,6.8
+M1074,"Fly Ash Brick Masonry Class 10 (IS 12894) #1074",Masonry,7.7,1.30,1230.7,4300.0,7.3,5.8,8.5,1533.0,6.2
+M1075,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1075",Weathering Steel,463.8,428.66,7822.9,83600.0,7.2,6.0,8.4,2096.5,5.8
+M1076,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1076",Sustainable & Eco-Friendly,42.4,4.85,2343.3,9000.0,8.8,8.2,8.7,472.2,6.0
+M1077,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1077",Masonry,8.9,1.23,709.5,4900.0,6.9,6.7,7.6,1531.8,7.7
+M1078,"Underwater Tremie Concrete M30 (IS 456) #1078",Specialty Concrete,25.8,2.44,1948.8,7100.0,7.7,5.5,6.1,585.7,9.5
+M1079,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1079",Structural Steel,370.3,411.70,7894.7,54600.0,7.9,7.0,7.7,103.4,9.4
+M1080,"Structural Aluminum Alloy 6061-T6 (IS 733) #1080",Non-Ferrous Metals,284.8,331.46,2784.5,162400.0,5.8,7.5,7.6,1301.2,8.7
+M1081,"Engineered Teak & Hardwood Composite (IS 3629) #1081",Timber / Engineered Wood,67.0,59.80,489.6,59500.0,9.2,4.7,9.5,2616.2,7.6
+M1082,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1082",Fiber Reinforced Concrete,44.5,7.98,2420.6,12000.0,8.0,4.7,6.5,2597.4,9.6
+M1083,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1083",High Performance Concrete,54.4,5.82,2458.7,7100.0,9.6,5.5,7.5,538.3,5.2
+M1084,"Reinforced Cement Concrete RCC M30 (IS 456) #1084",Normal Concrete,31.7,2.33,2333.0,4800.0,7.6,9.9,6.8,1694.1,9.3
+M1085,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1085",Sustainable & Eco-Friendly,34.6,3.75,2277.5,6900.0,7.1,8.8,6.1,1431.3,8.1
+M1086,"Precast Pier Cap & U-Girder M60 (IRC:112) #1086",Precast Concrete,60.1,5.26,2394.1,11200.0,7.6,7.2,6.9,1516.2,8.8
+M1087,"Reinforced Cement Concrete RCC M25 (IS 456) #1087",Normal Concrete,25.0,2.09,2413.0,4900.0,9.5,7.2,8.8,2937.8,9.2
+M1088,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1088",Sustainable & Eco-Friendly,40.2,4.38,2263.5,6200.0,7.5,7.6,6.0,1729.9,9.4
+M1089,"Austenitic Stainless Steel Grade 304 (IS 6911) #1089",Stainless Steel,519.9,560.79,8044.5,209900.0,9.2,6.4,8.0,654.7,6.5
+M1090,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1090",High Performance Concrete,40.4,3.99,2420.8,7100.0,5.9,7.5,6.5,2683.4,9.1
+M1091,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1091",FRP Composites,466.7,1393.60,1736.1,95100.0,8.1,6.5,7.3,1336.6,6.5
+M1092,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1092",Masonry,12.2,0.55,1896.1,4700.0,9.5,8.8,6.6,116.3,6.3
+M1093,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1093",High Performance Concrete,59.0,4.37,2413.9,10300.0,9.9,7.2,5.0,853.3,5.1
+M1094,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1094",Fiber Reinforced Concrete,55.4,6.99,2406.7,10300.0,7.5,8.3,4.6,463.1,6.3
+M1095,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1095",Structural Steel,469.7,337.76,7863.3,64800.0,7.9,9.0,6.4,2324.2,7.1
+M1096,"Structural Aluminum Alloy 6063-T6 (IS 733) #1096",Non-Ferrous Metals,343.8,249.50,2618.1,166300.0,5.3,9.0,6.6,2750.8,8.6
+M1097,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1097",Ultra High Performance Concrete,175.4,10.78,2593.1,15500.0,7.4,5.6,7.2,527.9,9.2
+M1098,"Precast Pier Cap & U-Girder M60 (IRC:112) #1098",Precast Concrete,63.7,3.96,2443.5,10100.0,6.7,6.1,6.5,2129.5,8.0
+M1099,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1099",Weathering Steel,409.1,430.11,7800.2,94200.0,5.0,4.6,5.9,2431.9,9.8
+M1100,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1100",Masonry,11.3,0.97,684.4,6400.0,8.8,7.8,8.6,2186.1,8.2
+M1101,"Engineered Teak & Hardwood Composite (IS 3629) #1101",Timber / Engineered Wood,66.1,70.57,692.6,26800.0,8.3,4.3,7.5,2998.1,7.8
+M1102,"Fly Ash Brick Masonry Class 10 (IS 12894) #1102",Masonry,6.8,0.53,1683.1,3700.0,5.6,6.5,8.8,2247.9,5.3
+M1103,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1103",High Performance Concrete,55.7,5.22,2465.0,8500.0,7.8,6.9,9.3,1614.3,7.2
+M1104,"Structural Aluminum Alloy 6061-T6 (IS 733) #1104",Non-Ferrous Metals,285.9,348.64,2707.7,159700.0,8.7,7.1,6.6,2636.2,7.1
+M1105,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1105",Masonry,14.9,0.40,837.5,4300.0,9.7,4.4,4.1,205.4,5.4
+M1106,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1106",Fiber Reinforced Concrete,47.0,7.32,2427.2,10300.0,5.5,6.0,7.1,2210.2,5.0
+M1107,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1107",Precast Concrete,43.9,6.06,2457.3,10700.0,6.4,9.5,4.3,372.9,7.0
+M1108,"Structural Aluminum Alloy 6061-T6 (IS 733) #1108",Non-Ferrous Metals,343.5,347.68,2651.8,155300.0,9.9,9.3,7.6,2716.0,9.9
+M1109,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1109",Specialty Concrete,16.0,2.02,2086.5,5700.0,9.2,4.7,4.3,1183.1,5.2
+M1110,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1110",Ultra High Performance Concrete,164.4,13.61,2544.5,16400.0,7.6,7.6,7.2,817.7,7.6
+M1111,"Precast Pier Cap & U-Girder M60 (IRC:112) #1111",Precast Concrete,64.9,6.19,2419.5,10800.0,8.7,4.2,9.4,2587.4,7.3
+M1112,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1112",Ultra High Performance Concrete,114.6,11.34,2456.7,23400.0,5.2,6.0,9.6,2218.9,6.4
+M1113,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1113",Structural Steel,327.9,503.20,7849.6,52400.0,6.1,8.1,4.5,2561.1,7.5
+M1114,"Precast Segmental Box Girder M50 (IRC:112) #1114",Precast Concrete,52.8,5.97,2402.2,11100.0,7.8,5.6,9.3,2402.4,8.3
+M1115,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1115",FRP Composites,740.3,1820.87,1834.8,127300.0,8.4,7.7,8.5,517.9,9.4
+M1116,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1116",Timber / Engineered Wood,31.2,80.42,495.1,36700.0,8.7,5.0,8.9,2504.8,7.5
+M1117,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1117",High Performance Concrete,48.6,5.16,2498.1,9500.0,6.3,7.8,7.2,2350.5,5.5
+M1118,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1118",Weathering Steel,465.0,545.19,7834.2,85800.0,9.7,4.6,9.6,2079.3,5.3
+M1119,"Reinforced Cement Concrete RCC M30 (IS 456) #1119",Normal Concrete,31.6,2.85,2371.0,4600.0,5.4,9.1,9.9,2044.4,7.2
+M1120,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1120",Ultra High Performance Concrete,143.5,10.69,2459.8,23000.0,6.9,8.9,5.5,53.0,5.8
+M1121,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1121",Sustainable & Eco-Friendly,53.6,3.26,2413.6,7300.0,9.1,5.8,9.0,2329.8,6.2
+M1122,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1122",FRP Composites,740.6,2152.21,1512.5,129800.0,9.5,9.1,9.8,2292.3,7.2
+M1123,"Plain Cement Concrete PCC M20 (IS 456) #1123",Normal Concrete,24.8,2.87,2411.9,4800.0,9.3,8.3,7.4,1441.0,7.7
+M1124,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1124",Precast Concrete,41.1,3.77,2373.0,10000.0,7.7,4.1,8.8,917.8,9.6
+M1125,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1125",Ultra High Performance Concrete,106.7,11.23,2450.2,20600.0,8.0,5.5,7.4,715.3,5.8
+M1126,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1126",Structural Steel,347.8,456.59,7843.3,79500.0,5.7,6.8,8.1,1216.9,9.9
+M1127,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1127",FRP Composites,662.7,2018.16,1811.9,78000.0,7.4,4.6,5.5,2960.7,5.7
+M1128,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1128",Structural Steel,435.4,495.86,7856.0,50300.0,6.6,7.1,4.5,1084.3,5.2
+M1129,"Fly Ash Brick Masonry Class 10 (IS 12894) #1129",Masonry,7.8,0.55,1429.7,5400.0,9.0,5.2,5.0,358.5,8.2
+M1130,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1130",FRP Composites,364.2,2117.08,1520.8,115600.0,8.5,9.2,8.3,2415.1,6.7
+M1131,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1131",Weathering Steel,479.3,491.89,7859.7,89600.0,7.4,4.2,5.0,1343.9,8.6
+M1132,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1132",Weathering Steel,478.0,482.31,7861.6,78200.0,7.4,8.5,9.2,1329.3,5.2
+M1133,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1133",High Performance Concrete,40.6,5.24,2433.2,9200.0,7.5,4.5,6.4,700.7,7.1
+M1134,"Reinforced Cement Concrete RCC M30 (IS 456) #1134",Normal Concrete,32.6,2.21,2444.1,5100.0,9.2,7.8,8.4,2314.8,7.5
+M1135,"Reinforced Cement Concrete RCC M25 (IS 456) #1135",Normal Concrete,27.7,2.71,2304.4,5100.0,8.0,7.6,8.8,1982.3,10.0
+M1136,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1136",Structural Steel,357.7,384.35,7846.6,75100.0,6.2,8.7,6.4,1825.5,8.2
+M1137,"Precast Segmental Box Girder M50 (IRC:112) #1137",Precast Concrete,50.4,4.74,2360.4,10000.0,5.5,6.4,7.6,1759.3,8.3
+M1138,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1138",Structural Steel,445.6,359.25,7839.9,75700.0,5.0,7.5,7.6,1220.1,6.2
+M1139,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1139",FRP Composites,747.7,1474.63,1632.4,108700.0,8.3,4.9,6.7,1784.3,9.7
+M1140,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1140",Structural Steel,300.3,262.83,7873.6,69900.0,7.4,9.1,8.8,1776.8,9.3
+M1141,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1141",FRP Composites,400.4,1250.67,1522.8,114800.0,9.7,4.2,4.7,1384.0,9.7
+M1142,"Reinforced Cement Concrete RCC M25 (IS 456) #1142",Normal Concrete,27.6,2.05,2322.3,6000.0,9.8,4.0,9.7,1935.4,9.3
+M1143,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1143",Stainless Steel,603.1,622.21,8033.4,159800.0,5.1,5.8,8.2,645.5,8.4
+M1144,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1144",Fiber Reinforced Concrete,37.3,7.69,2444.4,12400.0,5.9,8.2,9.0,2836.6,8.4
+M1145,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1145",High Performance Concrete,58.5,5.71,2457.1,7100.0,9.7,8.1,8.1,686.2,8.3
+M1146,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1146",Fiber Reinforced Concrete,49.4,6.39,2415.9,11200.0,6.6,9.2,10.0,2269.7,5.5
+M1147,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1147",Timber / Engineered Wood,34.4,70.78,717.8,57400.0,7.2,9.4,9.3,985.7,9.3
+M1148,"Austenitic Stainless Steel Grade 304 (IS 6911) #1148",Stainless Steel,559.4,662.27,7965.7,194100.0,8.0,7.4,6.3,1668.1,8.0
+M1149,"Reinforced Cement Concrete RCC M25 (IS 456) #1149",Normal Concrete,26.7,2.02,2388.1,4800.0,8.2,8.6,7.0,1650.0,9.8
+M1150,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1150",Structural Steel,524.3,534.82,7810.9,54500.0,7.6,5.5,6.9,1213.4,7.7
+M1151,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1151",High Performance Concrete,61.5,4.95,2482.2,8700.0,9.5,4.4,9.7,1981.3,6.9
+M1152,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1152",Fiber Reinforced Concrete,47.0,5.78,2416.6,11300.0,7.6,8.0,9.6,1620.2,7.9
+M1153,"Underwater Tremie Concrete M30 (IS 456) #1153",Specialty Concrete,25.8,2.02,2183.7,7500.0,7.6,4.7,9.2,2409.4,5.9
+M1154,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1154",Stainless Steel,658.7,546.31,8083.6,179700.0,5.4,8.9,6.2,1603.2,5.6
+M1155,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1155",Weathering Steel,476.6,486.97,7859.4,89800.0,8.2,5.0,6.2,2722.4,8.8
+M1156,"Fly Ash Brick Masonry Class 10 (IS 12894) #1156",Masonry,6.1,0.73,1684.5,6000.0,8.4,8.9,8.6,491.6,7.1
+M1157,"Reinforced Cement Concrete RCC M30 (IS 456) #1157",Normal Concrete,31.1,3.04,2332.5,4600.0,5.1,7.9,7.6,1662.8,6.2
+M1158,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1158",Sustainable & Eco-Friendly,44.9,4.24,2446.9,6000.0,8.5,6.4,6.6,2166.9,8.5
+M1159,"Austenitic Stainless Steel Grade 304 (IS 6911) #1159",Stainless Steel,525.7,526.03,8044.9,190500.0,6.4,4.5,4.5,2687.9,6.0
+M1160,"Plain Cement Concrete PCC M20 (IS 456) #1160",Normal Concrete,23.4,2.43,2310.4,5300.0,5.3,8.8,5.4,1643.0,9.4
+M1161,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1161",Ultra High Performance Concrete,138.0,10.27,2500.0,21400.0,10.0,8.0,7.3,2205.4,7.3
+M1162,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1162",Structural Steel,418.7,585.17,7817.5,70700.0,6.0,7.2,4.6,1378.6,8.8
+M1163,"Structural Aluminum Alloy 6063-T6 (IS 733) #1163",Non-Ferrous Metals,347.2,295.98,2676.5,127200.0,9.9,4.1,8.4,2317.4,6.2
+M1164,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1164",Fiber Reinforced Concrete,37.3,6.03,2478.8,12400.0,8.0,7.0,5.0,236.2,5.6
+M1165,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1165",High Performance Concrete,50.3,4.64,2434.6,8000.0,7.5,9.0,5.7,2830.0,9.4
+M1166,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1166",Ultra High Performance Concrete,160.8,12.02,2535.0,18300.0,7.5,6.4,7.2,1902.5,8.4
+M1167,"Precast Segmental Box Girder M50 (IRC:112) #1167",Precast Concrete,56.6,3.92,2381.8,11700.0,6.6,4.1,4.9,709.7,9.8
+M1168,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1168",Masonry,12.9,0.55,1886.1,6200.0,7.4,7.6,8.6,565.8,7.5
+M1169,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1169",Structural Steel,293.9,378.64,7806.8,50800.0,5.7,9.8,7.3,2899.2,7.2
+M1170,"Precast Pier Cap & U-Girder M60 (IRC:112) #1170",Precast Concrete,61.3,4.33,2477.7,8000.0,5.1,7.6,6.2,1190.1,7.8
+M1171,"Fly Ash Brick Masonry Class 10 (IS 12894) #1171",Masonry,5.5,0.93,1719.1,5200.0,6.5,6.6,5.0,270.2,8.9
+M1172,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1172",Ultra High Performance Concrete,106.0,12.84,2542.7,21000.0,6.1,5.4,5.3,562.6,8.3
+M1173,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1173",Weathering Steel,486.9,522.97,7840.5,86400.0,6.8,7.2,6.9,571.8,6.9
+M1174,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1174",Precast Concrete,42.5,3.90,2412.8,11600.0,7.9,8.1,5.1,1875.9,6.6
+M1175,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1175",High Performance Concrete,58.9,4.24,2406.5,7200.0,6.9,5.6,7.9,1523.0,6.3
+M1176,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1176",Masonry,4.5,1.35,927.4,5300.0,9.1,7.7,9.2,1207.6,9.8
+M1177,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1177",Timber / Engineered Wood,34.1,71.23,780.0,53300.0,5.4,5.7,9.6,796.5,8.9
+M1178,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1178",FRP Composites,573.0,1402.25,1680.0,92000.0,9.4,6.7,9.3,361.8,9.9
+M1179,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1179",Fiber Reinforced Concrete,36.2,5.15,2474.6,11500.0,9.0,4.6,4.2,1550.3,6.9
+M1180,"Precast Pier Cap & U-Girder M60 (IRC:112) #1180",Precast Concrete,64.7,6.41,2491.3,11500.0,6.8,6.5,7.3,2500.1,5.3
+M1181,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1181",Structural Steel,274.8,430.13,7889.9,73500.0,6.1,9.9,8.0,80.8,6.3
+M1182,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1182",Precast Concrete,37.1,6.38,2421.7,12000.0,6.6,4.8,6.8,386.2,7.4
+M1183,"Structural Aluminum Alloy 6063-T6 (IS 733) #1183",Non-Ferrous Metals,223.5,227.00,2622.2,155900.0,5.5,6.3,7.3,1196.5,5.8
+M1184,"Precast Pier Cap & U-Girder M60 (IRC:112) #1184",Precast Concrete,62.8,5.53,2424.4,8100.0,10.0,8.0,5.9,2643.8,6.3
+M1185,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1185",High Performance Concrete,59.1,4.29,2497.8,10000.0,7.8,5.1,4.3,994.2,8.8
+M1186,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1186",Structural Steel,411.9,504.78,7810.8,70600.0,5.5,9.8,6.9,494.5,6.7
+M1187,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1187",FRP Composites,691.2,1866.45,1744.8,82900.0,5.8,4.6,7.5,2637.6,7.2
+M1188,"Fly Ash Brick Masonry Class 10 (IS 12894) #1188",Masonry,9.7,1.29,1699.7,6100.0,6.4,5.2,9.3,1989.8,6.6
+M1189,"Precast Segmental Box Girder M50 (IRC:112) #1189",Precast Concrete,53.5,4.06,2403.3,11500.0,7.8,4.0,8.6,154.2,8.7
+M1190,"Engineered Teak & Hardwood Composite (IS 3629) #1190",Timber / Engineered Wood,68.3,55.24,564.4,30200.0,6.5,9.3,10.0,1136.5,7.2
+M1191,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1191",Masonry,13.6,1.05,1156.9,4400.0,8.5,4.0,7.7,1098.7,9.0
+M1192,"Reinforced Cement Concrete RCC M30 (IS 456) #1192",Normal Concrete,28.8,2.58,2396.3,4600.0,7.9,7.4,7.4,1830.3,8.4
+M1193,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1193",Ultra High Performance Concrete,114.3,13.78,2524.7,14800.0,5.3,6.0,8.7,2137.7,8.9
+M1194,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1194",Ultra High Performance Concrete,129.6,9.03,2499.2,18800.0,5.4,5.3,7.6,2220.2,10.0
+M1195,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1195",Structural Steel,442.8,397.44,7863.6,73600.0,5.6,6.5,9.0,1182.3,7.9
+M1196,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1196",Fiber Reinforced Concrete,39.6,6.45,2433.5,8600.0,5.1,9.0,5.6,1578.3,6.5
+M1197,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1197",Ultra High Performance Concrete,113.3,11.01,2580.9,23300.0,5.9,8.8,6.7,1474.8,5.7
+M1198,"Precast Segmental Box Girder M50 (IRC:112) #1198",Precast Concrete,56.8,4.99,2415.5,11300.0,8.8,5.0,7.7,449.3,8.8
+M1199,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1199",Timber / Engineered Wood,68.3,38.79,470.0,34900.0,6.3,5.5,9.4,786.2,6.4
+M1200,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1200",Masonry,13.1,0.69,792.4,6000.0,5.2,7.7,7.4,1070.5,6.6
+M1201,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1201",Weathering Steel,410.4,450.78,7873.2,83700.0,5.6,9.3,6.4,2492.2,8.9
+M1202,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1202",Timber / Engineered Wood,49.8,88.88,500.7,50400.0,6.0,6.0,5.9,2843.8,9.8
+M1203,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1203",Timber / Engineered Wood,30.9,74.60,596.3,28100.0,8.4,7.3,9.9,720.9,7.0
+M1204,"Engineered Teak & Hardwood Composite (IS 3629) #1204",Timber / Engineered Wood,61.7,65.19,664.5,32900.0,9.2,6.6,4.8,2009.4,6.1
+M1205,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1205",High Performance Concrete,65.9,4.81,2474.9,8200.0,8.9,4.7,6.1,2935.3,9.0
+M1206,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1206",Weathering Steel,504.7,490.83,7875.8,88900.0,5.1,4.8,8.0,526.8,6.3
+M1207,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1207",Timber / Engineered Wood,52.4,76.29,645.3,44300.0,5.5,6.1,5.7,1202.6,9.0
+M1208,"Underwater Tremie Concrete M30 (IS 456) #1208",Specialty Concrete,21.8,2.02,1565.4,6300.0,6.0,5.1,4.6,1102.2,8.8
+M1209,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1209",Fiber Reinforced Concrete,42.8,7.57,2419.6,12500.0,7.6,6.7,7.3,539.8,8.1
+M1210,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1210",Ultra High Performance Concrete,170.7,9.18,2526.1,20600.0,5.2,6.2,8.4,2470.1,6.6
+M1211,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1211",Structural Steel,540.3,549.91,7811.8,72200.0,6.6,9.9,6.9,411.2,8.6
+M1212,"Self-Compacting Concrete SCC M35 (IS 456 / IS 10262) #1212",Specialty Concrete,30.0,2.77,1959.3,5400.0,8.4,4.6,4.2,2477.7,6.0
+M1213,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1213",Fiber Reinforced Concrete,59.3,6.35,2429.6,12600.0,5.6,8.6,9.9,2708.8,8.3
+M1214,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1214",Fiber Reinforced Concrete,41.4,8.28,2488.0,10900.0,6.2,4.7,4.5,2171.3,7.1
+M1215,"Engineered Teak & Hardwood Composite (IS 3629) #1215",Timber / Engineered Wood,59.6,45.52,664.8,40200.0,7.9,8.4,8.8,2539.0,6.3
+M1216,"Underwater Tremie Concrete M30 (IS 456) #1216",Specialty Concrete,26.1,1.64,1720.4,5000.0,8.4,5.0,7.9,2975.6,5.4
+M1217,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1217",Ultra High Performance Concrete,152.5,11.59,2495.8,16300.0,5.2,5.8,7.9,2818.0,9.4
+M1218,"Engineered Teak & Hardwood Composite (IS 3629) #1218",Timber / Engineered Wood,61.5,71.57,541.1,56800.0,8.4,7.4,4.7,1368.8,7.3
+M1219,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1219",Fiber Reinforced Concrete,48.7,6.52,2497.7,9000.0,7.1,4.3,8.4,2758.3,6.4
+M1220,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1220",Timber / Engineered Wood,41.7,85.09,713.9,53200.0,5.1,9.8,8.4,949.0,9.1
+M1221,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1221",Ultra High Performance Concrete,168.5,8.79,2555.6,19900.0,5.5,5.5,4.1,1432.9,6.5
+M1222,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1222",Fiber Reinforced Concrete,42.4,6.20,2474.3,8700.0,9.5,9.1,8.0,1800.0,9.5
+M1223,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1223",Weathering Steel,463.8,528.96,7828.5,80700.0,6.3,8.7,7.4,1993.5,6.3
+M1224,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1224",Ultra High Performance Concrete,134.0,13.16,2528.8,14400.0,9.3,4.4,9.7,124.2,8.5
+M1225,"Structural Aluminum Alloy 6063-T6 (IS 733) #1225",Non-Ferrous Metals,336.6,294.31,2627.5,140400.0,5.8,5.0,9.7,1363.5,8.9
+M1226,"Underwater Tremie Concrete M30 (IS 456) #1226",Specialty Concrete,25.1,1.67,1663.9,7400.0,9.9,5.6,5.6,1445.0,9.9
+M1227,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1227",Weathering Steel,448.8,535.89,7800.3,71000.0,8.0,9.4,5.4,1435.4,7.3
+M1228,"Reinforced Cement Concrete RCC M30 (IS 456) #1228",Normal Concrete,29.3,2.56,2367.1,5200.0,8.0,7.2,9.1,196.0,9.2
+M1229,"Structural Aluminum Alloy 6063-T6 (IS 733) #1229",Non-Ferrous Metals,242.7,294.06,2687.7,133100.0,7.0,4.3,5.7,2459.2,6.4
+M1230,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1230",Stainless Steel,606.3,719.97,8015.0,152100.0,8.4,4.3,6.7,2791.8,5.8
+M1231,"Structural Aluminum Alloy 6061-T6 (IS 733) #1231",Non-Ferrous Metals,309.5,361.16,2734.2,135500.0,8.4,5.8,8.3,2864.4,8.6
+M1232,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1232",FRP Composites,350.9,1832.84,1831.8,78000.0,9.4,5.5,8.0,2411.0,8.3
+M1233,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1233",Ultra High Performance Concrete,143.7,11.85,2585.0,18400.0,6.6,8.5,6.5,1956.0,8.2
+M1234,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1234",FRP Composites,619.4,1552.80,1555.5,83700.0,5.8,5.0,7.8,2235.9,7.6
+M1235,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1235",Precast Concrete,39.3,3.54,2413.3,9300.0,7.4,7.5,4.3,412.9,7.8
+M1236,"Engineered Teak & Hardwood Composite (IS 3629) #1236",Timber / Engineered Wood,59.2,70.88,746.0,49200.0,7.1,8.0,5.7,953.6,8.9
+M1237,"Structural Aluminum Alloy 6061-T6 (IS 733) #1237",Non-Ferrous Metals,319.8,351.59,2771.5,175000.0,7.2,5.9,7.5,1145.0,8.0
+M1238,"Structural Aluminum Alloy 6063-T6 (IS 733) #1238",Non-Ferrous Metals,303.3,279.93,2633.4,145800.0,5.7,9.3,6.1,505.7,5.1
+M1239,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1239",High Performance Concrete,59.1,4.55,2407.2,8600.0,6.6,8.1,7.6,1125.6,6.1
+M1240,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1240",Structural Steel,386.2,490.90,7814.1,64600.0,5.1,7.0,9.8,1183.4,5.2
+M1241,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1241",FRP Composites,524.6,1108.03,1509.3,131700.0,7.3,5.7,9.4,392.6,9.8
+M1242,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1242",Ultra High Performance Concrete,170.0,12.22,2574.0,24800.0,6.4,9.8,6.3,1187.3,6.7
+M1243,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1243",Fiber Reinforced Concrete,38.9,7.21,2454.2,11900.0,9.2,6.6,5.8,815.0,6.0
+M1244,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1244",Fiber Reinforced Concrete,43.6,6.08,2496.6,11000.0,6.7,7.5,4.8,1359.9,8.1
+M1245,"Underwater Tremie Concrete M30 (IS 456) #1245",Specialty Concrete,21.0,2.79,2116.2,6900.0,7.8,7.7,5.2,1215.7,5.2
+M1246,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1246",Fiber Reinforced Concrete,48.6,5.91,2496.4,12600.0,8.6,7.2,9.2,435.4,9.0
+M1247,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1247",Fiber Reinforced Concrete,54.9,6.10,2487.7,12700.0,5.7,6.8,9.9,1476.1,9.3
+M1248,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1248",Weathering Steel,445.0,457.15,7820.3,89000.0,6.9,7.1,7.0,1753.0,9.3
+M1249,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1249",FRP Composites,533.4,1975.77,1805.8,118000.0,9.8,5.2,4.7,2569.2,7.2
+M1250,"Reinforced Cement Concrete RCC M30 (IS 456) #1250",Normal Concrete,33.4,2.07,2432.5,5200.0,7.6,7.8,9.6,106.4,7.4
+M1251,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1251",Structural Steel,466.8,492.39,7813.4,59000.0,6.8,8.8,5.7,671.6,9.8
+M1252,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1252",Ultra High Performance Concrete,179.8,12.74,2574.3,17200.0,5.1,8.4,9.0,2234.4,5.7
+M1253,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1253",Stainless Steel,653.8,664.64,8053.2,209200.0,8.1,4.5,6.9,279.1,7.0
+M1254,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1254",Structural Steel,341.8,442.20,7863.2,67300.0,8.5,4.0,4.6,2613.4,8.4
+M1255,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1255",Weathering Steel,501.0,451.49,7847.8,73600.0,8.6,8.0,5.3,2597.0,7.0
+M1256,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1256",Precast Concrete,39.6,4.30,2353.3,10600.0,9.2,7.3,5.3,149.3,6.1
+M1257,"Engineered Teak & Hardwood Composite (IS 3629) #1257",Timber / Engineered Wood,60.4,45.33,701.9,55300.0,7.3,8.9,7.3,1929.4,7.6
+M1258,"Structural Aluminum Alloy 6063-T6 (IS 733) #1258",Non-Ferrous Metals,235.2,268.51,2658.0,153800.0,5.6,9.5,8.3,1234.3,5.8
+M1259,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1259",High Performance Concrete,64.7,5.39,2427.2,8600.0,5.5,5.1,8.7,2159.4,8.0
+M1260,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1260",Weathering Steel,470.0,480.71,7834.0,93500.0,5.4,9.6,9.0,433.3,7.8
+M1261,"Structural Aluminum Alloy 6061-T6 (IS 733) #1261",Non-Ferrous Metals,285.8,365.15,2788.6,145300.0,6.9,9.6,8.1,392.3,5.2
+M1262,"Reinforced Cement Concrete RCC M30 (IS 456) #1262",Normal Concrete,34.0,3.01,2401.4,4700.0,6.3,9.3,5.1,871.4,5.6
+M1263,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1263",Timber / Engineered Wood,41.9,40.80,723.6,47500.0,5.2,6.2,9.7,1526.2,7.2
+M1264,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1264",High Performance Concrete,59.0,5.50,2400.3,10400.0,5.9,7.3,6.5,2173.0,6.9
+M1265,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1265",FRP Composites,678.7,1742.03,1818.5,131600.0,5.2,6.4,9.6,420.9,8.7
+M1266,"Structural Aluminum Alloy 6061-T6 (IS 733) #1266",Non-Ferrous Metals,207.8,329.15,2693.6,154800.0,5.4,4.3,8.0,2478.8,8.9
+M1267,"Structural Aluminum Alloy 6061-T6 (IS 733) #1267",Non-Ferrous Metals,215.0,330.09,2648.4,174700.0,9.2,8.3,9.7,142.7,8.7
+M1268,"Reinforced Cement Concrete RCC M30 (IS 456) #1268",Normal Concrete,33.6,2.32,2408.7,5800.0,5.2,6.4,8.6,1392.0,6.3
+M1269,"Austenitic Stainless Steel Grade 304 (IS 6911) #1269",Stainless Steel,526.3,714.28,8015.1,155300.0,6.9,6.2,5.1,1334.7,6.7
+M1270,"Reinforced Cement Concrete RCC M30 (IS 456) #1270",Normal Concrete,31.1,2.27,2396.3,5400.0,7.8,8.0,7.3,2643.8,8.4
+M1271,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1271",FRP Composites,723.4,1687.99,1616.5,90500.0,5.8,9.4,8.3,2815.3,8.0
+M1272,"Structural Aluminum Alloy 6063-T6 (IS 733) #1272",Non-Ferrous Metals,271.1,229.26,2791.6,176600.0,8.9,9.9,7.3,2890.2,5.4
+M1273,"Plain Cement Concrete PCC M20 (IS 456) #1273",Normal Concrete,23.4,2.23,2321.1,5400.0,8.9,7.5,4.9,2442.8,8.2
+M1274,"Structural Aluminum Alloy 6061-T6 (IS 733) #1274",Non-Ferrous Metals,296.4,349.58,2789.5,140200.0,8.6,7.2,4.4,2085.5,8.5
+M1275,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1275",Fiber Reinforced Concrete,47.4,5.92,2404.5,10400.0,6.5,8.6,6.1,2849.8,9.8
+M1276,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1276",Structural Steel,528.6,516.30,7854.7,55400.0,7.3,7.4,9.2,1469.9,9.5
+M1277,"Plain Cement Concrete PCC M20 (IS 456) #1277",Normal Concrete,22.1,3.19,2379.1,5100.0,8.3,4.7,7.8,1519.8,7.0
+M1278,"Fly Ash Brick Masonry Class 10 (IS 12894) #1278",Masonry,9.3,0.64,1261.4,6200.0,5.9,5.3,4.1,91.9,9.1
+M1279,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1279",FRP Composites,509.8,1807.80,1658.1,146500.0,9.8,6.4,9.1,2330.6,6.5
+M1280,"Reinforced Cement Concrete RCC M25 (IS 456) #1280",Normal Concrete,26.9,2.94,2444.0,5600.0,9.3,7.6,9.0,2364.0,6.9
+M1281,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1281",Masonry,12.7,0.45,1802.5,3600.0,7.6,8.8,5.5,775.1,7.0
+M1282,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1282",Sustainable & Eco-Friendly,30.0,5.25,2238.5,9000.0,9.8,7.0,7.1,1470.6,8.2
+M1283,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1283",Fiber Reinforced Concrete,35.8,5.23,2444.4,9700.0,8.1,10.0,6.3,1742.8,7.1
+M1284,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1284",High Performance Concrete,67.1,5.73,2497.4,7100.0,9.2,8.5,5.4,2871.1,5.7
+M1285,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1285",Sustainable & Eco-Friendly,35.6,4.08,2379.8,7500.0,7.1,6.0,9.0,474.3,7.2
+M1286,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1286",Weathering Steel,501.5,472.12,7876.3,90600.0,9.4,7.3,5.2,803.2,6.5
+M1287,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1287",Weathering Steel,403.9,502.69,7836.4,77400.0,9.4,6.8,4.6,2488.9,5.2
+M1288,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1288",High Performance Concrete,63.2,4.58,2482.5,9100.0,7.3,4.3,5.7,2796.5,7.0
+M1289,"Precast Segmental Box Girder M50 (IRC:112) #1289",Precast Concrete,51.0,5.27,2359.2,9600.0,8.6,5.2,5.2,79.8,7.2
+M1290,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1290",Ultra High Performance Concrete,94.7,9.34,2496.5,22000.0,8.2,6.5,8.6,1848.4,9.5
+M1291,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1291",Timber / Engineered Wood,40.1,49.93,493.9,36800.0,10.0,6.4,5.3,2299.3,7.7
+M1292,"Reinforced Cement Concrete RCC M25 (IS 456) #1292",Normal Concrete,25.7,2.50,2413.1,4500.0,6.3,7.1,5.6,1903.9,7.4
+M1293,"Underwater Tremie Concrete M30 (IS 456) #1293",Specialty Concrete,29.2,2.32,1591.0,6700.0,8.9,8.3,5.0,2918.6,7.2
+M1294,"Austenitic Stainless Steel Grade 304 (IS 6911) #1294",Stainless Steel,536.0,524.56,8060.7,158500.0,5.6,9.1,6.1,141.0,5.3
+M1295,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1295",Sustainable & Eco-Friendly,35.3,4.66,2239.3,5900.0,8.8,8.0,6.6,1670.5,6.6
+M1296,"Underwater Tremie Concrete M30 (IS 456) #1296",Specialty Concrete,26.8,2.45,1769.0,5100.0,9.2,4.1,8.2,2912.3,7.2
+M1297,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1297",Stainless Steel,641.0,704.28,8009.3,217700.0,5.3,7.0,8.3,2594.8,5.9
+M1298,"Precast Segmental Box Girder M50 (IRC:112) #1298",Precast Concrete,51.6,4.69,2369.8,11900.0,5.8,5.9,5.7,2620.7,8.4
+M1299,"Austenitic Stainless Steel Grade 304 (IS 6911) #1299",Stainless Steel,550.1,656.22,8014.3,208300.0,9.5,4.1,8.0,202.9,7.7
+M1300,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1300",Fiber Reinforced Concrete,42.7,6.41,2462.1,10000.0,8.7,6.4,4.4,2362.1,6.4
+M1301,"Engineered Teak & Hardwood Composite (IS 3629) #1301",Timber / Engineered Wood,57.4,53.29,469.8,38100.0,9.7,7.9,8.0,1915.2,6.0
+M1302,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1302",Structural Steel,430.3,596.63,7832.5,78200.0,9.6,4.1,6.7,2932.5,5.5
+M1303,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1303",Fiber Reinforced Concrete,59.5,7.22,2419.0,11100.0,6.0,7.1,4.4,1836.2,7.6
+M1304,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1304",High Performance Concrete,48.6,5.24,2496.9,9400.0,5.4,4.5,9.7,927.0,5.5
+M1305,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1305",Ultra High Performance Concrete,146.1,12.54,2490.1,14200.0,9.8,5.5,8.1,2134.6,8.1
+M1306,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1306",FRP Composites,472.0,1676.97,1846.4,146000.0,5.5,4.9,9.7,2222.8,9.4
+M1307,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1307",Stainless Steel,617.5,675.28,8036.0,178600.0,5.1,7.5,5.5,1378.3,9.8
+M1308,"Engineered Teak & Hardwood Composite (IS 3629) #1308",Timber / Engineered Wood,63.6,45.37,685.4,59200.0,5.5,4.0,6.6,323.2,8.7
+M1309,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1309",Timber / Engineered Wood,47.4,49.23,602.0,50300.0,5.0,7.5,7.7,1931.2,6.2
+M1310,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1310",Sustainable & Eco-Friendly,32.3,3.50,2419.4,8100.0,5.1,5.5,5.3,848.9,6.2
+M1311,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1311",FRP Composites,556.5,1852.55,1742.7,125500.0,5.4,9.7,9.0,2425.0,9.1
+M1312,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1312",Sustainable & Eco-Friendly,49.7,3.99,2328.4,6400.0,9.9,5.7,8.6,1311.1,6.0
+M1313,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1313",Timber / Engineered Wood,43.3,82.59,770.3,55100.0,5.2,8.7,6.5,2627.5,8.2
+M1314,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1314",Masonry,9.0,0.99,773.8,5700.0,7.1,7.0,8.7,1816.6,6.0
+M1315,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1315",Weathering Steel,406.7,483.84,7892.7,72600.0,8.8,6.5,7.9,817.7,5.8
+M1316,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1316",Sustainable & Eco-Friendly,31.8,3.46,2366.1,8600.0,9.1,8.1,4.7,903.1,6.5
+M1317,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1317",FRP Composites,581.8,1596.22,1642.8,101500.0,9.1,8.7,5.8,2745.7,9.8
+M1318,"Precast Segmental Box Girder M50 (IRC:112) #1318",Precast Concrete,45.6,5.02,2491.2,11900.0,5.5,6.4,7.3,1534.2,6.0
+M1319,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1319",Fiber Reinforced Concrete,51.9,8.35,2485.9,11900.0,7.2,7.7,5.0,2037.3,5.9
+M1320,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1320",Specialty Concrete,18.4,1.65,1615.7,5000.0,8.6,8.4,7.1,526.0,5.4
+M1321,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1321",Precast Concrete,40.0,6.17,2386.2,9600.0,5.5,5.3,7.1,1842.9,6.2
+M1322,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1322",Structural Steel,330.3,367.49,7874.9,67200.0,9.9,6.5,8.5,2620.8,8.4
+M1323,"Fly Ash Brick Masonry Class 10 (IS 12894) #1323",Masonry,5.1,0.95,1188.5,6000.0,8.2,7.2,4.7,1836.6,5.6
+M1324,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1324",Weathering Steel,417.1,509.97,7820.6,79800.0,9.5,5.2,7.0,1286.9,5.1
+M1325,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1325",FRP Composites,381.1,1516.53,1724.3,122100.0,8.4,5.5,4.1,2184.2,7.7
+M1326,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1326",Sustainable & Eco-Friendly,50.5,5.11,2321.3,6700.0,9.0,6.7,5.1,2572.2,9.4
+M1327,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1327",FRP Composites,384.1,1404.17,1821.4,142600.0,6.0,4.4,9.3,1198.7,7.7
+M1328,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1328",Non-Ferrous Metals,281.8,377.07,2690.1,150800.0,9.9,5.4,9.7,176.4,7.2
+M1329,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1329",Structural Steel,468.8,462.94,7870.7,61200.0,6.8,4.3,6.1,2791.4,6.9
+M1330,"Precast Pier Cap & U-Girder M60 (IRC:112) #1330",Precast Concrete,60.3,4.62,2444.8,8400.0,5.5,4.3,7.5,1306.9,7.7
+M1331,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1331",Sustainable & Eco-Friendly,38.8,4.69,2389.6,5600.0,6.0,8.3,6.3,2004.3,6.7
+M1332,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1332",Sustainable & Eco-Friendly,34.0,3.65,2351.4,7000.0,8.9,9.1,7.2,2286.9,6.5
+M1333,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1333",Sustainable & Eco-Friendly,47.8,3.97,2347.1,6100.0,8.0,9.2,9.2,2186.8,8.7
+M1334,"Reinforced Cement Concrete RCC M30 (IS 456) #1334",Normal Concrete,28.8,2.16,2366.6,5200.0,9.8,6.6,7.3,1623.1,8.2
+M1335,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1335",Precast Concrete,41.8,5.09,2473.9,10100.0,6.4,7.9,8.9,236.3,8.9
+M1336,"Underwater Tremie Concrete M30 (IS 456) #1336",Specialty Concrete,21.9,2.78,2050.7,7300.0,8.7,4.9,5.3,1418.8,6.3
+M1337,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1337",Fiber Reinforced Concrete,57.2,8.30,2463.0,12400.0,8.9,6.6,5.2,1566.9,8.7
+M1338,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1338",Stainless Steel,633.4,523.58,8049.6,206900.0,8.5,9.8,9.0,2714.1,9.7
+M1339,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1339",Sustainable & Eco-Friendly,51.5,5.49,2260.4,5600.0,7.1,4.8,4.1,1113.3,8.9
+M1340,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1340",Precast Concrete,44.4,5.46,2384.8,8100.0,8.8,7.7,8.6,164.9,9.2
+M1341,"Fly Ash Brick Masonry Class 10 (IS 12894) #1341",Masonry,9.8,1.09,1889.9,5100.0,7.9,9.9,8.5,1354.8,8.5
+M1342,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1342",Timber / Engineered Wood,39.2,67.83,774.9,57500.0,6.7,7.2,5.3,2987.1,9.9
+M1343,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1343",Structural Steel,491.3,500.29,7859.3,51600.0,7.3,8.0,8.1,1150.7,9.7
+M1344,"Structural Aluminum Alloy 6061-T6 (IS 733) #1344",Non-Ferrous Metals,275.1,330.54,2739.4,158900.0,6.4,4.9,7.8,1817.9,5.9
+M1345,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1345",Structural Steel,386.6,483.72,7883.7,55100.0,5.1,8.7,7.7,2113.9,9.2
+M1346,"Underwater Tremie Concrete M30 (IS 456) #1346",Specialty Concrete,29.4,2.20,1841.9,6200.0,5.8,7.4,5.7,2767.9,7.9
+M1347,"Structural Aluminum Alloy 6063-T6 (IS 733) #1347",Non-Ferrous Metals,253.2,228.32,2606.3,145400.0,5.4,7.6,9.3,2654.6,8.3
+M1348,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1348",Sustainable & Eco-Friendly,54.4,4.71,2293.9,8300.0,9.4,4.8,5.2,687.9,8.5
+M1349,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1349",Weathering Steel,474.3,542.30,7877.6,73200.0,6.7,6.6,6.4,2024.5,9.5
+M1350,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1350",Ultra High Performance Concrete,139.7,13.53,2512.4,15800.0,7.4,4.3,9.7,270.7,7.2
+M1351,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1351",Ultra High Performance Concrete,178.7,9.16,2467.2,14100.0,5.8,5.2,7.8,698.1,5.1
+M1352,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1352",Weathering Steel,443.9,465.98,7830.2,94400.0,5.9,9.4,8.7,275.6,9.9
+M1353,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1353",Weathering Steel,411.8,527.81,7870.7,85400.0,5.8,6.9,8.7,945.7,6.6
+M1354,"Structural Aluminum Alloy 6063-T6 (IS 733) #1354",Non-Ferrous Metals,273.2,233.16,2691.9,138400.0,9.1,4.3,6.5,1402.4,8.6
+M1355,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1355",High Performance Concrete,60.0,5.51,2486.2,8300.0,7.7,9.0,9.9,2674.1,6.9
+M1356,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1356",Fiber Reinforced Concrete,47.2,7.97,2449.3,10700.0,9.2,6.2,9.2,1250.1,6.6
+M1357,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1357",FRP Composites,693.1,1063.80,1578.6,146400.0,5.9,7.4,7.5,1494.4,8.2
+M1358,"Structural Aluminum Alloy 6063-T6 (IS 733) #1358",Non-Ferrous Metals,282.9,279.55,2732.3,128500.0,7.9,5.1,5.7,695.2,5.9
+M1359,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1359",Structural Steel,431.2,451.81,7855.9,61100.0,8.9,5.5,9.6,2687.3,6.7
+M1360,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1360",Sustainable & Eco-Friendly,49.9,3.44,2368.2,6300.0,6.1,9.2,5.5,826.6,5.0
+M1361,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1361",Masonry,12.5,1.09,1712.9,3500.0,7.3,6.1,4.6,1484.1,9.6
+M1362,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1362",Weathering Steel,435.0,446.98,7823.8,92700.0,7.3,6.8,8.6,505.8,7.4
+M1363,"Reinforced Cement Concrete RCC M30 (IS 456) #1363",Normal Concrete,30.6,3.12,2356.4,5600.0,7.4,8.0,8.6,184.1,8.2
+M1364,"Underwater Tremie Concrete M30 (IS 456) #1364",Specialty Concrete,25.1,2.11,2041.5,5400.0,8.1,5.7,9.1,2788.7,10.0
+M1365,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1365",Ultra High Performance Concrete,157.8,9.51,2500.4,19100.0,8.9,9.5,5.1,2771.0,8.5
+M1366,"Austenitic Stainless Steel Grade 304 (IS 6911) #1366",Stainless Steel,540.0,513.88,8013.7,195600.0,6.1,7.3,9.1,2513.4,9.6
+M1367,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1367",High Performance Concrete,49.5,5.45,2443.1,7400.0,6.4,6.5,5.8,1030.0,6.5
+M1368,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1368",Ultra High Performance Concrete,147.3,12.18,2548.0,16100.0,6.5,7.7,7.6,1543.7,6.8
+M1369,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1369",FRP Composites,502.9,1492.30,1771.2,115700.0,6.7,6.6,8.8,870.5,5.7
+M1370,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1370",FRP Composites,732.3,1015.69,1896.7,115600.0,9.9,9.6,6.7,635.5,5.8
+M1371,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1371",Stainless Steel,619.0,537.62,8093.6,181300.0,7.5,5.5,6.8,2002.6,8.8
+M1372,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1372",Stainless Steel,615.6,726.09,8063.5,203000.0,5.3,4.0,5.3,2007.4,7.1
+M1373,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1373",Weathering Steel,506.2,536.42,7890.9,77800.0,8.5,5.6,5.1,594.7,6.7
+M1374,"Underwater Tremie Concrete M30 (IS 456) #1374",Specialty Concrete,27.5,1.66,2014.4,6600.0,6.4,7.0,5.8,1808.4,7.2
+M1375,"Austenitic Stainless Steel Grade 304 (IS 6911) #1375",Stainless Steel,523.3,636.67,8080.5,174100.0,8.7,8.0,9.6,2471.9,7.8
+M1376,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1376",Ultra High Performance Concrete,127.0,11.92,2591.4,14900.0,6.3,8.7,4.6,273.2,6.8
+M1377,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1377",Sustainable & Eco-Friendly,44.6,3.57,2423.9,8200.0,8.5,7.7,9.2,708.0,9.4
+M1378,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1378",FRP Composites,686.7,1629.63,1598.5,106800.0,9.0,4.2,8.7,758.2,5.7
+M1379,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1379",Specialty Concrete,15.4,2.18,1652.8,8000.0,7.9,4.8,8.1,2698.3,8.7
+M1380,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1380",Structural Steel,518.8,527.88,7815.8,51600.0,7.8,4.9,9.0,1107.1,9.6
+M1381,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1381",Precast Concrete,40.5,3.92,2436.5,11400.0,8.9,5.7,5.2,99.4,8.4
+M1382,"Reinforced Cement Concrete RCC M25 (IS 456) #1382",Normal Concrete,26.3,2.72,2440.6,5000.0,6.2,7.9,7.7,1029.7,9.6
+M1383,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1383",Sustainable & Eco-Friendly,35.6,3.60,2328.1,8200.0,5.2,8.2,7.9,732.9,8.4
+M1384,"Structural Aluminum Alloy 6063-T6 (IS 733) #1384",Non-Ferrous Metals,322.2,317.89,2674.7,135300.0,5.5,6.1,6.5,2043.7,8.3
+M1385,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1385",Precast Concrete,40.5,3.97,2474.1,8200.0,7.1,5.0,9.3,1693.3,6.2
+M1386,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1386",FRP Composites,468.1,1306.97,1834.6,78800.0,7.3,6.3,5.9,892.8,5.5
+M1387,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1387",High Performance Concrete,41.3,5.52,2439.8,8800.0,9.5,7.9,4.0,2832.4,6.2
+M1388,"Underwater Tremie Concrete M30 (IS 456) #1388",Specialty Concrete,26.5,2.15,1803.6,5700.0,7.7,5.6,9.4,684.9,9.4
+M1389,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1389",Ultra High Performance Concrete,164.6,12.99,2554.5,17600.0,6.2,5.3,9.1,2470.3,7.2
+M1390,"Underwater Tremie Concrete M30 (IS 456) #1390",Specialty Concrete,20.7,2.31,1818.1,7300.0,10.0,5.1,6.8,1321.4,6.5
+M1391,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1391",Weathering Steel,407.9,535.33,7842.0,82400.0,9.6,8.7,4.8,1718.0,7.2
+M1392,"Precast Segmental Box Girder M50 (IRC:112) #1392",Precast Concrete,56.7,5.57,2401.1,11600.0,5.3,5.0,6.0,276.6,6.2
+M1393,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1393",Fiber Reinforced Concrete,58.7,6.22,2426.5,9800.0,6.4,4.2,9.6,680.4,7.1
+M1394,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1394",High Performance Concrete,65.7,5.41,2494.7,10100.0,6.6,5.5,8.2,1124.1,7.8
+M1395,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1395",High Performance Concrete,41.9,4.98,2456.6,10000.0,5.7,7.1,5.2,324.9,7.1
+M1396,"Plain Cement Concrete PCC M20 (IS 456) #1396",Normal Concrete,23.3,2.38,2338.9,4600.0,5.4,5.2,4.3,1898.0,6.4
+M1397,"Precast Segmental Box Girder M50 (IRC:112) #1397",Precast Concrete,57.6,3.65,2423.9,10000.0,6.7,6.4,7.2,526.0,7.9
+M1398,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1398",Fiber Reinforced Concrete,54.0,5.62,2414.9,9700.0,6.8,6.5,8.1,217.2,5.2
+M1399,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1399",Ultra High Performance Concrete,152.7,9.35,2546.2,16900.0,9.4,9.4,5.8,728.5,7.1
+M1400,"Underwater Tremie Concrete M30 (IS 456) #1400",Specialty Concrete,25.1,2.57,1971.2,7500.0,7.0,4.9,8.4,1113.4,8.4
+M1401,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1401",Non-Ferrous Metals,212.2,378.81,2631.2,179300.0,9.9,8.8,8.0,1754.5,9.3
+M1402,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1402",Fiber Reinforced Concrete,54.2,6.74,2444.6,11300.0,8.3,7.0,7.9,119.4,7.1
+M1403,"Plain Cement Concrete PCC M20 (IS 456) #1403",Normal Concrete,21.9,2.12,2390.5,5300.0,6.3,6.8,7.0,625.3,8.3
+M1404,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1404",Masonry,12.5,1.06,1343.0,3200.0,6.4,4.6,9.8,448.5,5.8
+M1405,"Reinforced Cement Concrete RCC M30 (IS 456) #1405",Normal Concrete,34.2,2.92,2300.8,4500.0,6.9,4.9,4.1,1419.0,9.7
+M1406,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1406",Sustainable & Eco-Friendly,46.5,4.63,2262.8,7800.0,6.1,4.7,8.2,384.7,10.0
+M1407,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1407",Masonry,10.1,0.85,745.9,3100.0,8.1,8.8,9.1,1474.0,8.9
+M1408,"Structural Aluminum Alloy 6063-T6 (IS 733) #1408",Non-Ferrous Metals,308.6,298.82,2726.7,168300.0,7.0,8.8,7.6,539.4,5.1
+M1409,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1409",Masonry,9.6,1.32,747.6,5800.0,9.3,4.9,9.1,2974.8,8.6
+M1410,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1410",Sustainable & Eco-Friendly,52.5,4.98,2369.1,7900.0,9.7,5.8,4.0,852.3,6.1
+M1411,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1411",Fiber Reinforced Concrete,50.8,7.37,2401.6,11800.0,6.6,8.0,7.3,1061.1,5.7
+M1412,"Reinforced Cement Concrete RCC M30 (IS 456) #1412",Normal Concrete,32.5,3.10,2397.5,4700.0,7.0,8.4,8.7,398.7,5.0
+M1413,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1413",Ultra High Performance Concrete,122.1,9.78,2451.9,19900.0,9.3,9.7,7.4,1567.7,5.4
+M1414,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1414",Structural Steel,449.9,596.09,7822.6,61700.0,7.4,4.8,4.5,2497.7,9.9
+M1415,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1415",Sustainable & Eco-Friendly,32.2,3.16,2422.8,7100.0,6.6,6.9,5.9,1492.7,9.3
+M1416,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1416",Sustainable & Eco-Friendly,47.4,3.91,2384.6,7800.0,5.6,7.4,5.5,2422.1,7.1
+M1417,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1417",Structural Steel,277.8,523.12,7867.4,73000.0,6.5,7.0,8.8,736.0,6.1
+M1418,"Fly Ash Brick Masonry Class 10 (IS 12894) #1418",Masonry,9.3,0.71,1012.0,4000.0,8.9,7.9,9.0,2927.6,7.4
+M1419,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1419",Precast Concrete,36.4,4.39,2489.9,10400.0,6.4,6.4,7.6,1976.2,5.8
+M1420,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1420",Stainless Steel,609.0,533.92,8078.7,155200.0,9.5,10.0,8.2,2322.8,6.7
+M1421,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1421",Fiber Reinforced Concrete,48.2,7.93,2492.4,12900.0,9.2,5.8,9.8,1903.0,9.7
+M1422,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1422",Precast Concrete,44.2,4.61,2432.6,11600.0,6.6,7.5,6.1,2456.5,7.3
+M1423,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1423",Specialty Concrete,17.5,1.58,1849.5,5300.0,5.6,9.6,9.2,1383.7,9.9
+M1424,"Fly Ash Brick Masonry Class 10 (IS 12894) #1424",Masonry,10.4,1.08,1259.0,4400.0,7.3,6.5,8.4,449.3,6.0
+M1425,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1425",Masonry,6.1,0.98,722.4,6000.0,6.5,5.0,8.1,162.4,8.1
+M1426,"Fly Ash Brick Masonry Class 10 (IS 12894) #1426",Masonry,5.6,0.45,1113.7,3300.0,5.6,5.5,5.8,1613.4,8.4
+M1427,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1427",Precast Concrete,39.5,4.02,2481.8,10500.0,9.3,6.2,7.7,1594.8,6.6
+M1428,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1428",Weathering Steel,460.3,446.10,7831.5,89800.0,9.6,6.2,5.8,625.8,8.4
+M1429,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1429",Masonry,14.9,0.76,1160.9,5100.0,9.0,6.8,6.5,2987.1,5.1
+M1430,"Plain Cement Concrete PCC M20 (IS 456) #1430",Normal Concrete,22.2,2.94,2392.7,5000.0,9.4,4.1,5.4,1722.3,6.8
+M1431,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1431",Specialty Concrete,15.4,1.65,1589.0,5600.0,7.3,8.5,9.4,2514.3,6.0
+M1432,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1432",Specialty Concrete,18.0,1.84,1852.5,5200.0,6.1,9.6,6.8,1363.9,5.1
+M1433,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1433",Precast Concrete,39.9,4.75,2352.1,10200.0,5.1,8.9,8.9,2373.8,6.4
+M1434,"Fly Ash Brick Masonry Class 10 (IS 12894) #1434",Masonry,9.5,0.81,1519.3,3000.0,5.7,8.5,5.5,1814.1,6.9
+M1435,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1435",Sustainable & Eco-Friendly,53.8,5.21,2267.7,6200.0,7.4,4.0,4.2,1682.2,7.6
+M1436,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1436",Timber / Engineered Wood,52.3,87.79,467.0,28400.0,5.2,5.1,7.2,1954.4,5.2
+M1437,"Precast Segmental Box Girder M50 (IRC:112) #1437",Precast Concrete,48.6,4.85,2490.5,12400.0,9.0,8.5,8.1,539.9,5.3
+M1438,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1438",Fiber Reinforced Concrete,58.7,5.57,2438.2,11000.0,5.4,4.0,8.0,1943.4,7.1
+M1439,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1439",Timber / Engineered Wood,46.6,36.32,567.4,31200.0,5.5,9.7,7.6,2199.5,6.6
+M1440,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1440",Sustainable & Eco-Friendly,35.9,3.24,2244.8,8300.0,8.4,7.3,6.9,2771.2,5.4
+M1441,"Engineered Teak & Hardwood Composite (IS 3629) #1441",Timber / Engineered Wood,55.9,81.41,563.7,49100.0,9.8,8.4,6.9,1910.6,8.7
+M1442,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1442",Weathering Steel,402.0,445.32,7881.0,76800.0,8.7,6.2,7.1,250.5,5.9
+M1443,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1443",Masonry,13.7,1.12,1262.4,5400.0,8.1,7.4,4.4,1916.8,8.8
+M1444,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1444",Precast Concrete,35.3,5.69,2435.8,10000.0,5.6,6.5,6.1,943.3,8.7
+M1445,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1445",Weathering Steel,470.7,542.03,7835.0,76100.0,8.3,5.2,5.9,712.6,5.3
+M1446,"Austenitic Stainless Steel Grade 304 (IS 6911) #1446",Stainless Steel,550.9,618.26,7908.7,199000.0,6.7,8.5,6.5,627.5,7.6
+M1447,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1447",Sustainable & Eco-Friendly,41.0,3.79,2428.0,5700.0,8.5,5.1,5.9,1275.8,9.5
+M1448,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1448",Structural Steel,277.4,361.54,7810.5,53900.0,7.9,4.4,4.2,2157.5,6.8
+M1449,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1449",Sustainable & Eco-Friendly,36.3,4.61,2268.9,7200.0,5.6,7.5,5.9,1899.6,9.0
+M1450,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1450",Structural Steel,523.9,450.24,7818.1,58100.0,6.0,5.5,5.8,1687.6,7.9
+M1451,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1451",Structural Steel,434.6,278.55,7808.8,55200.0,7.6,5.3,5.7,1230.9,9.1
+M1452,"Underwater Tremie Concrete M30 (IS 456) #1452",Specialty Concrete,24.7,2.37,2059.1,7800.0,5.1,4.9,9.3,1402.6,7.8
+M1453,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1453",High Performance Concrete,64.5,3.84,2473.6,7800.0,5.7,7.8,5.9,218.5,5.7
+M1454,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1454",Ultra High Performance Concrete,171.3,8.17,2481.4,18600.0,6.8,9.5,4.2,1561.0,8.4
+M1455,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1455",Weathering Steel,474.4,524.49,7808.4,79600.0,6.9,9.3,4.9,498.1,6.6
+M1456,"Plain Cement Concrete PCC M20 (IS 456) #1456",Normal Concrete,22.7,3.16,2364.2,5400.0,8.6,6.2,4.9,659.4,6.6
+M1457,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1457",Ultra High Performance Concrete,125.8,8.05,2528.5,24100.0,9.1,9.0,8.8,1005.0,8.8
+M1458,"Reinforced Cement Concrete RCC M30 (IS 456) #1458",Normal Concrete,29.9,2.77,2303.8,5700.0,9.5,5.6,8.9,293.1,8.0
+M1459,"Fly Ash Brick Masonry Class 10 (IS 12894) #1459",Masonry,9.6,1.42,1900.5,5700.0,6.4,9.5,4.6,2567.3,6.6
+M1460,"Reinforced Cement Concrete RCC M30 (IS 456) #1460",Normal Concrete,30.0,2.28,2336.5,5000.0,5.3,5.1,4.0,1364.0,5.4
+M1461,"Austenitic Stainless Steel Grade 304 (IS 6911) #1461",Stainless Steel,547.1,735.89,8074.3,170300.0,8.9,8.8,9.9,1813.6,5.4
+M1462,"Underwater Tremie Concrete M30 (IS 456) #1462",Specialty Concrete,24.4,2.33,1715.0,7600.0,9.8,5.3,4.5,623.9,9.1
+M1463,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1463",Fiber Reinforced Concrete,50.9,6.61,2457.8,9900.0,7.4,8.8,9.9,2800.8,9.7
+M1464,"Underwater Tremie Concrete M30 (IS 456) #1464",Specialty Concrete,22.0,2.42,2145.5,5400.0,6.5,4.8,7.7,953.6,6.6
+M1465,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1465",Structural Steel,354.9,551.87,7823.3,70900.0,8.1,9.2,4.8,2933.9,7.9
+M1466,"Precast Pier Cap & U-Girder M60 (IRC:112) #1466",Precast Concrete,62.3,4.16,2358.4,9200.0,7.6,5.0,5.0,1414.7,5.2
+M1467,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1467",Sustainable & Eco-Friendly,40.4,3.16,2299.2,7200.0,7.3,9.2,7.2,1430.5,7.1
+M1468,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1468",Ultra High Performance Concrete,170.6,13.97,2551.0,15500.0,6.4,4.3,9.6,1999.4,8.7
+M1469,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1469",Weathering Steel,501.5,453.75,7800.2,79400.0,7.9,6.9,9.2,360.9,7.8
+M1470,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1470",Structural Steel,472.7,308.74,7812.0,52000.0,8.6,9.6,6.6,401.5,7.6
+M1471,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1471",FRP Composites,518.7,1707.73,1787.5,83300.0,5.2,10.0,5.4,208.8,5.9
+M1472,"Reinforced Cement Concrete RCC M25 (IS 456) #1472",Normal Concrete,25.9,2.96,2351.2,5200.0,8.4,7.1,9.2,2604.8,5.0
+M1473,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1473",High Performance Concrete,53.8,5.98,2448.3,10900.0,8.8,5.5,7.2,2976.8,9.3
+M1474,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1474",Sustainable & Eco-Friendly,47.7,3.86,2201.7,6900.0,6.2,8.9,6.0,2491.2,5.0
+M1475,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1475",Structural Steel,322.3,331.75,7806.8,55600.0,7.8,5.7,6.5,1161.8,9.4
+M1476,"Precast Segmental Box Girder M50 (IRC:112) #1476",Precast Concrete,49.8,4.49,2366.0,12300.0,5.3,5.8,5.8,995.2,5.8
+M1477,"Austenitic Stainless Steel Grade 304 (IS 6911) #1477",Stainless Steel,524.5,658.73,7924.8,154900.0,9.5,5.1,8.9,1656.7,5.4
+M1478,"Plain Cement Concrete PCC M20 (IS 456) #1478",Normal Concrete,23.7,3.03,2325.3,5800.0,5.1,7.1,8.6,2807.6,9.5
+M1479,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1479",FRP Composites,749.7,1158.99,1613.7,96700.0,6.9,6.4,7.3,521.6,8.5
+M1480,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1480",High Performance Concrete,49.3,4.91,2479.6,10000.0,8.2,4.9,7.3,308.0,6.9
+M1481,"Plain Cement Concrete PCC M20 (IS 456) #1481",Normal Concrete,20.6,2.33,2443.3,5900.0,6.8,4.3,5.1,1207.0,9.7
+M1482,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1482",High Performance Concrete,62.9,4.04,2498.1,8500.0,8.9,6.1,7.8,616.4,5.7
+M1483,"Engineered Teak & Hardwood Composite (IS 3629) #1483",Timber / Engineered Wood,66.7,83.81,668.9,53300.0,5.3,6.0,5.9,1925.2,6.8
+M1484,"Fly Ash Brick Masonry Class 10 (IS 12894) #1484",Masonry,10.2,1.30,1142.3,3500.0,6.0,5.4,5.8,1946.2,8.0
+M1485,"Precast Pier Cap & U-Girder M60 (IRC:112) #1485",Precast Concrete,59.7,4.11,2420.4,11600.0,5.9,4.7,9.3,1061.6,8.4
+M1486,"Fly Ash Brick Masonry Class 10 (IS 12894) #1486",Masonry,6.8,0.46,1495.2,3800.0,6.9,4.5,4.9,929.0,5.4
+M1487,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1487",Timber / Engineered Wood,30.2,61.61,493.1,35800.0,9.6,5.0,9.8,657.1,8.7
+M1488,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1488",High Performance Concrete,66.5,5.02,2453.5,7800.0,5.8,9.5,6.0,1147.6,8.8
+M1489,"Underwater Tremie Concrete M30 (IS 456) #1489",Specialty Concrete,29.3,2.46,1918.2,7600.0,5.2,5.5,6.8,719.6,8.7
+M1490,"Fly Ash Brick Masonry Class 10 (IS 12894) #1490",Masonry,8.1,0.78,2040.4,4600.0,7.4,6.1,9.5,1728.4,8.8
+M1491,"Austenitic Stainless Steel Grade 304 (IS 6911) #1491",Stainless Steel,568.4,608.42,8069.7,175400.0,9.0,9.6,7.7,2237.8,9.0
+M1492,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1492",Structural Steel,368.5,267.94,7840.2,70200.0,7.3,8.5,6.1,1922.5,5.9
+M1493,"Precast Segmental Box Girder M50 (IRC:112) #1493",Precast Concrete,51.4,4.11,2393.8,11400.0,7.4,5.3,9.8,2159.6,9.8
+M1494,"Structural Aluminum Alloy 6061-T6 (IS 733) #1494",Non-Ferrous Metals,271.3,363.67,2705.0,162400.0,6.3,6.7,4.7,657.6,5.0
+M1495,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1495",Masonry,14.7,0.67,1578.1,5900.0,7.8,4.9,8.4,1820.7,8.7
+M1496,"Underwater Tremie Concrete M30 (IS 456) #1496",Specialty Concrete,21.3,1.90,2155.7,6500.0,7.5,5.1,4.6,2534.2,8.1
+M1497,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1497",Ultra High Performance Concrete,107.3,11.89,2537.6,16300.0,9.3,4.5,6.1,2057.1,6.4
+M1498,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1498",Masonry,11.9,1.27,734.6,3500.0,6.4,7.1,8.5,2517.8,8.5
+M1499,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1499",Stainless Steel,647.7,576.57,7953.0,198700.0,6.0,4.6,7.2,2473.8,5.5
+M1500,"Precast Pier Cap & U-Girder M60 (IRC:112) #1500",Precast Concrete,59.3,4.95,2358.6,8800.0,8.5,8.3,9.4,1768.9,5.6
+M1501,"Reinforced Cement Concrete RCC M30 (IS 456) #1501",Normal Concrete,30.8,2.22,2349.3,5200.0,5.1,5.5,6.4,874.9,5.7
+M1502,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1502",Masonry,12.8,0.68,1750.4,4300.0,7.5,9.1,8.5,2425.1,5.7
+M1503,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1503",Weathering Steel,507.2,470.42,7828.8,88100.0,9.2,9.2,5.9,2564.0,5.2
+M1504,"Reinforced Cement Concrete RCC M30 (IS 456) #1504",Normal Concrete,29.4,2.08,2348.7,5500.0,6.7,5.1,5.7,1399.8,7.4
+M1505,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1505",Stainless Steel,650.0,614.20,8069.1,158000.0,6.3,9.0,6.3,2944.5,7.3
+M1506,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1506",High Performance Concrete,52.1,4.73,2438.3,9900.0,7.7,9.7,5.5,346.7,7.0
+M1507,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1507",Ultra High Performance Concrete,167.5,10.42,2548.1,17900.0,8.1,9.3,5.4,1242.5,10.0
+M1508,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1508",Masonry,9.8,0.97,991.1,4800.0,9.2,8.1,5.7,644.3,6.3
+M1509,"Plain Cement Concrete PCC M20 (IS 456) #1509",Normal Concrete,21.4,2.50,2317.0,4800.0,7.7,5.0,4.4,986.3,6.1
+M1510,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1510",FRP Composites,396.1,1877.30,1862.5,130800.0,7.7,9.2,8.2,81.1,7.0
+M1511,"Austenitic Stainless Steel Grade 304 (IS 6911) #1511",Stainless Steel,569.2,508.80,8049.2,206100.0,5.8,7.2,5.2,2171.7,6.4
+M1512,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1512",High Performance Concrete,65.3,4.85,2467.0,8600.0,6.5,7.8,4.9,1150.3,6.0
+M1513,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1513",Masonry,14.3,1.50,1247.9,3900.0,7.2,9.1,5.2,2858.7,6.7
+M1514,"Underwater Tremie Concrete M30 (IS 456) #1514",Specialty Concrete,27.6,2.55,1722.5,5000.0,6.9,5.8,4.2,1540.8,7.0
+M1515,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1515",Structural Steel,436.4,292.26,7897.7,55600.0,7.2,6.9,8.9,342.7,7.1
+M1516,"Plain Cement Concrete PCC M20 (IS 456) #1516",Normal Concrete,23.2,2.75,2438.5,6000.0,5.2,5.4,5.9,1227.4,6.2
+M1517,"Structural Aluminum Alloy 6061-T6 (IS 733) #1517",Non-Ferrous Metals,343.2,366.96,2609.4,140300.0,7.0,5.4,7.8,1939.1,9.3
+M1518,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1518",Ultra High Performance Concrete,138.8,12.58,2491.1,20500.0,7.4,4.8,5.5,910.5,9.6
+M1519,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1519",Fiber Reinforced Concrete,42.2,6.48,2466.4,9000.0,9.8,9.2,7.5,2038.4,5.1
+M1520,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1520",Structural Steel,488.7,277.12,7828.2,67600.0,6.3,9.6,4.8,2402.3,7.5
+M1521,"Austenitic Stainless Steel Grade 304 (IS 6911) #1521",Stainless Steel,562.1,628.62,8071.4,182700.0,6.8,7.2,8.3,1358.5,9.7
+M1522,"Structural Aluminum Alloy 6061-T6 (IS 733) #1522",Non-Ferrous Metals,271.3,341.11,2737.8,171800.0,10.0,6.6,4.7,139.7,8.6
+M1523,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1523",Masonry,12.9,1.01,634.6,6400.0,7.6,5.7,6.8,2580.7,6.5
+M1524,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1524",Precast Concrete,38.9,4.39,2467.0,10100.0,6.1,5.0,6.0,2822.8,6.7
+M1525,"Fly Ash Brick Masonry Class 10 (IS 12894) #1525",Masonry,7.0,0.46,1247.9,3900.0,6.8,8.2,7.1,417.7,9.8
+M1526,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1526",Fiber Reinforced Concrete,54.1,5.32,2404.7,8600.0,5.9,6.5,9.6,1398.3,6.5
+M1527,"Plain Cement Concrete PCC M20 (IS 456) #1527",Normal Concrete,21.7,2.73,2385.3,5700.0,9.9,5.5,7.1,2731.2,8.9
+M1528,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1528",Fiber Reinforced Concrete,58.6,5.23,2493.1,8700.0,7.7,9.3,5.6,1443.1,6.6
+M1529,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1529",Sustainable & Eco-Friendly,50.6,4.77,2346.9,8400.0,7.0,6.7,8.4,1105.4,5.3
+M1530,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1530",Specialty Concrete,16.7,2.63,1830.6,7100.0,7.0,5.6,6.1,2392.8,8.1
+M1531,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1531",Ultra High Performance Concrete,151.2,11.99,2541.5,24400.0,8.9,4.1,7.2,2080.6,8.7
+M1532,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1532",Weathering Steel,504.1,544.26,7823.7,92100.0,5.5,4.3,4.8,220.3,9.2
+M1533,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1533",Timber / Engineered Wood,40.9,40.71,553.4,28200.0,8.3,4.8,9.1,2460.7,5.1
+M1534,"Structural Aluminum Alloy 6063-T6 (IS 733) #1534",Non-Ferrous Metals,235.9,225.18,2667.2,150800.0,9.0,6.0,8.2,603.1,8.8
+M1535,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1535",FRP Composites,354.1,1742.79,1704.4,108400.0,9.8,7.4,9.2,461.4,7.8
+M1536,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1536",Stainless Steel,616.6,679.50,7974.4,156500.0,7.3,6.4,9.2,769.8,9.8
+M1537,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1537",High Performance Concrete,47.4,4.57,2489.6,10900.0,7.2,5.9,7.2,2078.9,6.4
+M1538,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1538",Sustainable & Eco-Friendly,31.3,3.12,2296.6,6700.0,6.6,6.9,5.9,617.2,6.5
+M1539,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1539",Weathering Steel,449.3,477.81,7857.7,94600.0,6.2,8.1,8.3,1841.6,5.4
+M1540,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1540",High Performance Concrete,41.9,5.11,2474.0,7800.0,9.2,4.2,9.1,1408.0,6.1
+M1541,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1541",Structural Steel,536.0,275.43,7819.9,60400.0,8.1,7.3,4.8,904.7,6.2
+M1542,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1542",Ultra High Performance Concrete,127.0,12.93,2482.6,18000.0,7.0,9.9,9.7,2410.4,6.2
+M1543,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1543",Structural Steel,357.6,343.73,7843.2,52700.0,8.7,4.1,7.9,589.5,6.2
+M1544,"Engineered Teak & Hardwood Composite (IS 3629) #1544",Timber / Engineered Wood,69.7,77.77,529.0,31200.0,9.3,6.7,4.8,2593.5,9.1
+M1545,"Duplex Stainless Steel 2205 (IS 6911 / UNS S32205) #1545",Stainless Steel,681.9,712.95,7910.5,157300.0,7.8,7.2,6.7,1220.5,7.2
+M1546,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1546",Sustainable & Eco-Friendly,30.1,3.65,2329.6,8000.0,5.9,7.3,8.3,1361.7,5.1
+M1547,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1547",Weathering Steel,435.6,540.85,7812.5,86300.0,5.3,6.7,7.3,929.0,7.3
+M1548,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1548",Sustainable & Eco-Friendly,37.6,4.55,2275.5,8600.0,8.1,6.6,4.2,1523.7,8.8
+M1549,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1549",Structural Steel,492.0,338.13,7882.4,52600.0,9.3,7.0,5.8,832.1,7.2
+M1550,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1550",High Performance Concrete,46.6,4.03,2458.5,9000.0,7.6,8.0,5.6,2736.5,7.2
+M1551,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1551",Sustainable & Eco-Friendly,48.6,4.61,2278.9,7700.0,6.1,6.7,9.4,443.9,6.9
+M1552,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1552",High Performance Concrete,69.1,4.80,2450.7,9300.0,9.7,9.1,5.0,1338.4,7.3
+M1553,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1553",Sustainable & Eco-Friendly,53.3,3.06,2374.2,8000.0,9.2,9.8,9.9,242.6,9.1
+M1554,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1554",FRP Composites,641.3,1066.85,1760.1,148700.0,9.6,6.6,4.2,1118.8,9.1
+M1555,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1555",Sustainable & Eco-Friendly,41.5,3.14,2306.7,7100.0,9.6,7.8,5.9,1599.7,5.3
+M1556,"Reinforced Cement Concrete RCC M30 (IS 456) #1556",Normal Concrete,34.7,2.79,2422.5,5600.0,8.5,5.8,4.3,1062.0,8.3
+M1557,"Plain Cement Concrete PCC M20 (IS 456) #1557",Normal Concrete,20.2,2.17,2407.4,6000.0,9.9,7.0,9.2,2223.6,7.5
+M1558,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1558",FRP Composites,411.8,2118.96,1640.8,108500.0,8.4,6.0,5.5,1911.6,5.1
+M1559,"Underwater Tremie Concrete M30 (IS 456) #1559",Specialty Concrete,22.7,2.29,1942.3,6600.0,7.9,8.1,8.5,2196.0,9.3
+M1560,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1560",Structural Steel,370.3,581.73,7839.7,53700.0,7.6,4.7,5.2,2995.0,7.7
+M1561,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1561",FRP Composites,473.4,934.59,1794.1,121900.0,7.9,8.5,8.1,657.4,6.8
+M1562,"Fly Ash Brick Masonry Class 10 (IS 12894) #1562",Masonry,4.6,1.14,1880.8,6400.0,8.1,5.1,4.6,2447.9,7.9
+M1563,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1563",Fiber Reinforced Concrete,54.5,7.81,2483.4,8800.0,8.7,9.1,5.7,1939.3,6.6
+M1564,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1564",Fiber Reinforced Concrete,35.8,7.32,2416.7,11700.0,5.9,5.4,7.0,2748.8,6.1
+M1565,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1565",Masonry,12.1,0.95,1963.3,3500.0,8.2,5.4,4.9,2066.1,8.0
+M1566,"Fly Ash Brick Masonry Class 10 (IS 12894) #1566",Masonry,6.7,0.89,1178.5,6400.0,6.5,5.8,6.1,1715.6,6.3
+M1567,"Structural Aluminum Alloy 6061-T6 (IS 733) #1567",Non-Ferrous Metals,239.9,363.33,2620.7,159400.0,9.5,5.0,9.8,1386.0,9.7
+M1568,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1568",Sustainable & Eco-Friendly,37.5,3.47,2275.9,5800.0,5.7,4.6,6.5,2397.0,5.7
+M1569,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1569",Stainless Steel,628.7,549.30,7919.5,161700.0,9.6,8.9,6.1,1984.7,7.7
+M1570,"Underwater Tremie Concrete M30 (IS 456) #1570",Specialty Concrete,25.2,2.32,1686.3,5100.0,7.3,9.3,7.4,2505.6,10.0
+M1571,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1571",High Performance Concrete,60.8,5.28,2498.0,10900.0,8.4,5.5,8.8,365.7,8.9
+M1572,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1572",High Performance Concrete,51.5,5.19,2443.0,8800.0,6.6,8.6,9.6,2825.2,5.9
+M1573,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1573",Masonry,11.8,0.68,654.3,3900.0,9.6,7.8,8.3,808.6,8.6
+M1574,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1574",Sustainable & Eco-Friendly,37.5,4.14,2223.9,8600.0,9.7,9.9,9.2,563.2,5.2
+M1575,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1575",High Performance Concrete,67.4,4.19,2400.7,10200.0,5.4,6.5,8.1,748.6,5.4
+M1576,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1576",Non-Ferrous Metals,294.5,378.16,2668.9,123700.0,8.7,7.1,5.3,2356.1,6.0
+M1577,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1577",Precast Concrete,37.8,4.70,2412.8,10300.0,8.5,9.4,4.8,210.3,5.1
+M1578,"Engineered Teak & Hardwood Composite (IS 3629) #1578",Timber / Engineered Wood,56.3,75.01,725.3,33500.0,6.5,6.9,4.4,1852.9,9.9
+M1579,"Engineered Teak & Hardwood Composite (IS 3629) #1579",Timber / Engineered Wood,60.1,62.50,494.7,45400.0,6.5,4.2,7.8,2583.9,6.7
+M1580,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1580",Masonry,13.7,1.29,1658.2,3900.0,9.6,4.9,7.8,135.0,8.2
+M1581,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1581",FRP Composites,552.4,1348.84,1569.1,121600.0,9.4,9.8,5.2,2166.2,8.3
+M1582,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1582",Stainless Steel,638.0,736.37,8026.4,180500.0,7.6,5.2,8.5,2251.9,5.7
+M1583,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1583",Ultra High Performance Concrete,114.2,14.88,2507.4,16000.0,6.8,6.6,4.4,1755.7,8.0
+M1584,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1584",Sustainable & Eco-Friendly,30.7,4.35,2213.2,8000.0,5.3,9.5,8.2,1546.8,7.2
+M1585,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1585",Structural Steel,337.3,554.14,7890.4,50000.0,8.0,8.3,7.7,291.0,6.1
+M1586,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1586",Structural Steel,499.5,412.12,7848.7,78000.0,8.2,9.4,6.7,490.8,9.6
+M1587,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1587",Timber / Engineered Wood,37.3,51.63,467.8,41400.0,9.3,9.6,9.6,419.4,6.9
+M1588,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1588",Stainless Steel,671.0,589.69,8026.2,200000.0,7.1,5.8,9.8,2895.2,6.4
+M1589,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1589",Fiber Reinforced Concrete,59.3,5.02,2441.3,9000.0,7.5,4.1,6.4,701.1,7.7
+M1590,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1590",Weathering Steel,496.1,529.93,7863.5,71000.0,6.0,9.6,6.2,355.7,8.5
+M1591,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1591",High Performance Concrete,48.1,6.00,2485.8,8600.0,9.9,7.9,8.5,143.0,5.6
+M1592,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1592",Masonry,13.8,1.09,757.7,3400.0,9.2,4.8,7.1,159.5,5.4
+M1593,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1593",FRP Composites,389.3,2117.44,1830.2,134300.0,6.0,8.8,9.1,903.0,9.8
+M1594,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1594",FRP Composites,417.5,1598.86,1730.3,123400.0,5.1,9.8,4.3,472.0,5.1
+M1595,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1595",FRP Composites,769.5,1765.73,1829.1,76000.0,7.7,6.8,7.0,263.0,8.4
+M1596,"Engineered Teak & Hardwood Composite (IS 3629) #1596",Timber / Engineered Wood,60.6,61.69,502.3,47700.0,5.9,9.2,7.7,513.8,9.8
+M1597,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1597",Precast Concrete,37.2,5.38,2388.0,11600.0,9.1,9.9,7.0,1392.1,8.8
+M1598,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1598",Stainless Steel,609.4,636.56,7917.9,179300.0,9.3,9.1,4.6,317.6,6.3
+M1599,"Structural Aluminum Alloy 6061-T6 (IS 733) #1599",Non-Ferrous Metals,219.3,335.20,2620.2,157400.0,6.8,8.7,5.4,1935.6,6.2
+M1600,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1600",Masonry,13.5,0.54,1893.2,5100.0,5.6,6.6,5.0,2116.0,8.8
+M1601,"Plain Cement Concrete PCC M20 (IS 456) #1601",Normal Concrete,21.2,2.23,2371.2,5000.0,6.8,7.2,7.5,2400.7,6.7
+M1602,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1602",Weathering Steel,440.6,427.21,7855.4,84700.0,9.7,8.4,9.5,2729.6,8.0
+M1603,"Underwater Tremie Concrete M30 (IS 456) #1603",Specialty Concrete,23.4,2.77,2041.2,5300.0,8.9,5.0,6.7,670.9,8.4
+M1604,"Fly Ash Brick Masonry Class 10 (IS 12894) #1604",Masonry,6.5,0.49,1012.7,5400.0,6.6,5.7,5.1,1517.7,6.4
+M1605,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1605",High Performance Concrete,42.3,5.26,2423.8,9000.0,6.4,8.3,9.7,2755.4,7.9
+M1606,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1606",Masonry,12.8,1.15,834.5,5900.0,7.1,5.1,5.7,839.2,7.6
+M1607,"Fly Ash Brick Masonry Class 10 (IS 12894) #1607",Masonry,5.4,1.44,2063.6,4300.0,9.6,7.3,5.6,2122.1,8.3
+M1608,"Austenitic Stainless Steel Grade 304 (IS 6911) #1608",Stainless Steel,553.0,668.01,7910.4,158000.0,5.0,10.0,8.8,2370.8,7.5
+M1609,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1609",Ultra High Performance Concrete,103.6,9.99,2506.4,22300.0,7.7,4.5,4.1,351.9,7.1
+M1610,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1610",Structural Steel,441.2,530.64,7846.6,60800.0,5.5,9.3,8.7,545.9,7.6
+M1611,"Fly Ash Brick Masonry Class 10 (IS 12894) #1611",Masonry,10.5,1.44,1448.6,4900.0,5.3,4.4,5.1,145.8,8.7
+M1612,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1612",Ultra High Performance Concrete,149.9,11.45,2588.5,14200.0,8.6,9.3,4.4,1377.7,6.0
+M1613,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1613",Fiber Reinforced Concrete,51.2,6.21,2446.0,9800.0,6.8,5.0,9.3,79.5,9.4
+M1614,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1614",Sustainable & Eco-Friendly,38.3,4.81,2326.9,7200.0,5.6,6.3,5.4,96.3,6.8
+M1615,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1615",Structural Steel,327.0,282.38,7810.1,56000.0,10.0,4.0,7.8,466.7,9.6
+M1616,"Engineered Teak & Hardwood Composite (IS 3629) #1616",Timber / Engineered Wood,68.2,68.60,450.4,56300.0,7.6,5.6,8.6,2783.7,7.4
+M1617,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1617",High Performance Concrete,63.7,5.30,2488.9,9800.0,6.2,9.6,4.6,840.4,7.6
+M1618,"Fly Ash Brick Masonry Class 10 (IS 12894) #1618",Masonry,4.8,1.28,1646.2,3700.0,6.8,4.6,7.8,408.0,9.9
+M1619,"Structural Aluminum Alloy 6063-T6 (IS 733) #1619",Non-Ferrous Metals,258.5,312.57,2782.3,153200.0,5.9,6.3,9.1,1950.4,8.3
+M1620,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1620",Weathering Steel,507.3,539.57,7809.5,83600.0,8.7,8.5,7.6,542.0,9.0
+M1621,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1621",Precast Concrete,37.6,4.89,2376.1,9500.0,5.1,6.4,7.3,1877.8,8.3
+M1622,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1622",Precast Concrete,41.5,3.86,2477.7,8700.0,9.9,9.1,7.0,2945.2,5.5
+M1623,"Structural Aluminum Alloy 6063-T6 (IS 733) #1623",Non-Ferrous Metals,295.7,276.00,2785.7,123900.0,7.7,7.5,7.9,804.2,6.8
+M1624,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1624",Structural Steel,308.5,539.40,7856.3,72900.0,8.6,5.2,7.4,2609.8,7.2
+M1625,"Fly Ash Brick Masonry Class 10 (IS 12894) #1625",Masonry,8.4,0.56,1153.6,6300.0,6.6,9.2,9.3,1083.1,5.4
+M1626,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1626",High Performance Concrete,49.3,5.52,2444.3,8900.0,8.9,6.3,6.7,1159.8,6.8
+M1627,"Structural Aluminum Alloy 6061-T6 (IS 733) #1627",Non-Ferrous Metals,327.3,362.18,2696.8,163700.0,6.6,6.1,5.2,1707.7,6.6
+M1628,"Fly Ash Brick Masonry Class 10 (IS 12894) #1628",Masonry,11.2,1.18,1108.0,3300.0,7.1,6.7,8.0,980.5,8.4
+M1629,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1629",Timber / Engineered Wood,39.5,88.84,585.2,34400.0,7.1,4.6,4.8,1272.6,8.8
+M1630,"Precast Segmental Box Girder M50 (IRC:112) #1630",Precast Concrete,54.9,3.82,2450.8,10900.0,9.0,9.0,9.2,1271.7,8.5
+M1631,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1631",Sustainable & Eco-Friendly,55.0,3.44,2202.5,6000.0,8.9,6.7,6.7,2867.3,9.6
+M1632,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1632",Weathering Steel,425.1,530.30,7890.6,83500.0,8.1,5.5,8.8,1914.8,7.5
+M1633,"Underwater Tremie Concrete M30 (IS 456) #1633",Specialty Concrete,28.7,2.30,1634.9,6800.0,8.4,7.2,8.3,1765.3,9.7
+M1634,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1634",FRP Composites,397.8,1125.77,1776.1,123400.0,9.5,8.4,7.1,2975.9,6.3
+M1635,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1635",High Performance Concrete,52.8,5.23,2472.7,9500.0,5.7,6.7,7.4,2554.7,7.2
+M1636,"Fly Ash Brick Masonry Class 10 (IS 12894) #1636",Masonry,8.3,1.00,1784.2,5000.0,9.8,8.0,7.1,119.6,7.1
+M1637,"Engineered Teak & Hardwood Composite (IS 3629) #1637",Timber / Engineered Wood,59.9,46.46,521.8,31600.0,5.6,5.9,9.3,2336.0,8.7
+M1638,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1638",Structural Steel,546.5,412.85,7805.8,57900.0,7.2,4.9,9.7,2312.2,6.3
+M1639,"Underwater Tremie Concrete M30 (IS 456) #1639",Specialty Concrete,25.8,2.72,2117.1,6500.0,8.9,7.4,7.3,388.5,5.6
+M1640,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1640",Structural Steel,330.7,257.36,7872.3,51000.0,8.0,7.2,9.8,1478.4,5.3
+M1641,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1641",Non-Ferrous Metals,326.2,379.50,2686.1,139200.0,9.5,5.1,7.7,1246.9,5.2
+M1642,"Plain Cement Concrete PCC M20 (IS 456) #1642",Normal Concrete,24.0,2.82,2442.3,4900.0,9.1,4.3,7.2,258.1,9.7
+M1643,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1643",Weathering Steel,426.4,478.38,7879.6,83700.0,8.2,8.5,7.7,1643.2,8.7
+M1644,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1644",Ultra High Performance Concrete,146.7,10.52,2510.9,24700.0,5.6,5.6,7.0,2518.4,5.8
+M1645,"Structural Aluminum Alloy 6061-T6 (IS 733) #1645",Non-Ferrous Metals,209.9,332.96,2647.6,143300.0,7.2,9.3,6.5,478.4,7.6
+M1646,"Precast Segmental Box Girder M50 (IRC:112) #1646",Precast Concrete,53.2,6.45,2476.2,8200.0,8.3,5.7,7.4,874.1,6.7
+M1647,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1647",Weathering Steel,424.8,533.63,7803.0,72300.0,9.3,7.8,8.5,667.8,7.7
+M1648,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1648",Weathering Steel,475.3,481.32,7896.0,86900.0,9.5,8.4,8.4,286.1,6.8
+M1649,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1649",High Performance Concrete,47.0,4.05,2432.6,7900.0,9.6,9.2,7.0,231.0,8.6
+M1650,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1650",Masonry,14.6,1.01,1071.4,4800.0,9.9,8.2,8.0,760.0,8.7
+M1651,"Plain Cement Concrete PCC M20 (IS 456) #1651",Normal Concrete,24.8,2.58,2344.2,4900.0,5.1,5.7,7.3,54.7,6.4
+M1652,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1652",Fiber Reinforced Concrete,49.8,7.43,2440.3,11500.0,5.9,8.9,4.7,1985.2,6.7
+M1653,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1653",Weathering Steel,466.0,478.81,7816.9,85900.0,9.9,9.0,4.4,1159.9,9.6
+M1654,"Engineered Teak & Hardwood Composite (IS 3629) #1654",Timber / Engineered Wood,56.5,85.19,755.8,42600.0,7.2,6.0,8.3,896.6,6.2
+M1655,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1655",Precast Concrete,44.0,4.65,2478.2,11400.0,6.4,4.7,5.5,2766.2,7.9
+M1656,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1656",Fiber Reinforced Concrete,49.9,6.46,2480.7,10900.0,5.6,4.8,7.2,2812.9,6.5
+M1657,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1657",FRP Composites,693.8,1222.16,1514.5,82600.0,8.6,5.2,6.2,1530.0,8.6
+M1658,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1658",Structural Steel,371.9,419.78,7854.1,74600.0,5.9,8.8,8.2,1689.8,8.5
+M1659,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1659",Specialty Concrete,17.1,2.37,1867.3,6900.0,6.7,9.4,7.5,301.9,7.2
+M1660,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1660",Ultra High Performance Concrete,144.2,12.88,2463.6,19500.0,6.3,8.3,5.1,2682.1,7.2
+M1661,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1661",High Performance Concrete,53.1,4.70,2442.9,9300.0,7.6,4.9,4.4,2201.8,7.8
+M1662,"Reinforced Cement Concrete RCC M30 (IS 456) #1662",Normal Concrete,32.1,2.47,2419.4,5000.0,5.4,9.6,6.4,2388.4,6.4
+M1663,"Precast Pier Cap & U-Girder M60 (IRC:112) #1663",Precast Concrete,61.2,3.62,2474.6,10600.0,8.0,7.1,9.2,178.1,6.3
+M1664,"Reinforced Cement Concrete RCC M30 (IS 456) #1664",Normal Concrete,31.3,2.02,2377.6,5300.0,7.0,5.8,8.1,663.0,9.0
+M1665,"Precast Segmental Box Girder M50 (IRC:112) #1665",Precast Concrete,47.5,4.35,2392.6,10200.0,8.6,6.2,7.7,1178.3,6.5
+M1666,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1666",Weathering Steel,400.5,449.54,7840.6,91300.0,9.0,5.6,5.5,720.6,6.7
+M1667,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1667",Timber / Engineered Wood,47.5,47.01,495.7,25400.0,5.8,8.2,5.5,1432.4,8.0
+M1668,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1668",Fiber Reinforced Concrete,57.2,7.98,2403.5,11100.0,8.9,4.1,7.3,2580.4,7.4
+M1669,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1669",High Performance Concrete,40.3,4.72,2415.5,9700.0,8.5,5.1,9.3,1353.6,5.7
+M1670,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1670",Ultra High Performance Concrete,161.1,12.48,2578.0,22100.0,9.4,6.6,8.5,2999.3,8.6
+M1671,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1671",Structural Steel,405.5,455.57,7817.4,78900.0,5.9,5.1,9.5,1422.4,5.3
+M1672,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1672",Ultra High Performance Concrete,144.2,8.45,2595.9,20000.0,7.8,7.1,7.7,829.7,6.4
+M1673,"Structural Aluminum Alloy 6063-T6 (IS 733) #1673",Non-Ferrous Metals,321.0,227.98,2720.7,168400.0,5.8,4.1,5.9,1785.0,5.7
+M1674,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1674",Weathering Steel,466.3,497.85,7827.4,80000.0,8.9,9.6,9.2,1714.6,7.1
+M1675,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1675",Structural Steel,287.5,287.29,7868.8,57800.0,6.3,10.0,5.1,486.8,5.5
+M1676,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1676",FRP Composites,632.5,1374.80,1714.2,134100.0,9.1,9.7,8.9,1716.3,5.9
+M1677,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1677",Precast Concrete,36.6,5.50,2471.1,10300.0,5.3,7.2,9.6,1813.0,9.0
+M1678,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1678",Masonry,14.2,1.25,1708.9,3800.0,5.3,7.1,4.7,2888.5,6.4
+M1679,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1679",Sustainable & Eco-Friendly,39.7,3.81,2433.8,6800.0,7.0,4.6,8.0,902.1,7.9
+M1680,"Engineered Teak & Hardwood Composite (IS 3629) #1680",Timber / Engineered Wood,58.8,75.99,630.1,36600.0,9.2,5.9,7.0,1233.7,9.3
+M1681,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1681",Weathering Steel,509.0,521.57,7801.9,78200.0,8.1,5.7,9.5,1920.0,5.4
+M1682,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1682",Timber / Engineered Wood,68.3,39.27,636.3,35600.0,7.0,5.1,7.5,2876.0,7.5
+M1683,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1683",Fiber Reinforced Concrete,43.4,6.31,2428.5,10700.0,5.9,6.9,8.2,137.9,5.0
+M1684,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1684",Weathering Steel,464.3,531.08,7800.5,93400.0,5.5,9.1,6.9,1995.1,7.6
+M1685,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1685",High Performance Concrete,65.0,5.46,2448.3,7400.0,5.6,8.8,7.2,1470.7,8.4
+M1686,"Structural Aluminum Alloy 6061-T6 (IS 733) #1686",Non-Ferrous Metals,294.3,342.06,2753.1,141400.0,6.4,8.8,6.3,2714.8,5.3
+M1687,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1687",FRP Composites,767.2,1742.99,1651.8,131600.0,8.4,7.2,4.6,2445.9,9.3
+M1688,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1688",Fiber Reinforced Concrete,56.3,8.51,2454.9,11500.0,6.9,5.7,8.3,2592.5,8.3
+M1689,"Structural Aluminum Alloy 6063-T6 (IS 733) #1689",Non-Ferrous Metals,223.8,228.55,2689.1,123000.0,7.8,6.3,8.5,951.7,8.0
+M1690,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1690",Sustainable & Eco-Friendly,30.1,3.18,2272.6,8600.0,5.7,8.3,9.8,2382.2,6.2
+M1691,"Austenitic Stainless Steel Grade 304 (IS 6911) #1691",Stainless Steel,518.6,617.04,8077.5,194900.0,7.1,5.8,6.3,1551.4,6.6
+M1692,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1692",FRP Composites,769.9,2031.87,1668.7,126800.0,9.5,9.1,6.5,381.5,5.4
+M1693,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1693",Structural Steel,442.8,547.44,7829.3,55000.0,6.9,6.1,4.8,2033.2,7.5
+M1694,"Austenitic Stainless Steel Grade 304 (IS 6911) #1694",Stainless Steel,570.5,581.43,7994.5,211400.0,5.2,8.8,6.2,2571.1,9.0
+M1695,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1695",Structural Steel,458.2,305.87,7889.6,62100.0,7.3,8.2,8.9,747.2,8.3
+M1696,"Reinforced Cement Concrete RCC M25 (IS 456) #1696",Normal Concrete,25.5,2.83,2358.1,5000.0,9.2,4.6,8.1,783.7,5.1
+M1697,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1697",Weathering Steel,472.8,512.19,7802.1,70900.0,9.5,4.4,9.4,723.1,8.7
+M1698,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1698",Ultra High Performance Concrete,161.3,12.23,2524.0,14400.0,9.9,6.3,4.9,2016.8,6.4
+M1699,"Precast Segmental Box Girder M50 (IRC:112) #1699",Precast Concrete,52.6,4.84,2475.4,9200.0,7.2,7.2,8.0,2362.7,7.0
+M1700,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1700",Timber / Engineered Wood,36.0,86.30,584.1,50500.0,5.1,5.2,6.9,2640.8,7.6
+M1701,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1701",Ultra High Performance Concrete,133.5,11.43,2468.0,22800.0,6.2,9.4,9.5,2832.8,7.6
+M1702,"Precast Segmental Box Girder M50 (IRC:112) #1702",Precast Concrete,54.0,4.85,2400.7,9700.0,6.2,9.5,7.1,89.6,5.1
+M1703,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1703",Fiber Reinforced Concrete,47.6,5.73,2457.4,11400.0,7.8,8.4,6.0,2307.1,7.2
+M1704,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1704",High Performance Concrete,59.4,3.84,2465.4,9500.0,6.5,4.5,4.5,2773.5,8.4
+M1705,"Structural Aluminum Alloy 6063-T6 (IS 733) #1705",Non-Ferrous Metals,246.4,271.22,2767.7,159300.0,6.4,9.8,5.9,2994.8,10.0
+M1706,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1706",Specialty Concrete,19.7,2.13,1964.9,6600.0,9.8,8.3,5.3,360.0,8.4
+M1707,"Underwater Tremie Concrete M30 (IS 456) #1707",Specialty Concrete,26.8,1.90,1728.8,5000.0,8.5,4.7,8.6,1501.0,8.9
+M1708,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1708",Masonry,4.0,1.24,658.2,4700.0,5.9,8.5,9.5,1684.7,7.6
+M1709,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1709",Structural Steel,471.6,553.40,7862.6,70100.0,5.6,9.7,4.8,2335.3,6.3
+M1710,"Engineered Teak & Hardwood Composite (IS 3629) #1710",Timber / Engineered Wood,58.8,76.46,526.7,40500.0,8.1,8.6,4.6,2889.0,9.5
+M1711,"Precast Segmental Box Girder M50 (IRC:112) #1711",Precast Concrete,50.3,4.46,2459.6,9300.0,8.7,4.4,9.2,1523.7,7.2
+M1712,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1712",FRP Composites,630.9,1071.65,1802.5,95700.0,9.5,8.9,6.1,2432.8,6.8
+M1713,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1713",Masonry,14.5,1.12,1257.0,4400.0,6.6,9.9,4.8,978.7,7.4
+M1714,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1714",Ultra High Performance Concrete,143.3,10.66,2525.3,20700.0,7.8,6.9,7.0,570.4,9.1
+M1715,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1715",Specialty Concrete,17.0,2.50,2152.7,7800.0,6.8,4.8,7.1,382.2,9.7
+M1716,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1716",Fiber Reinforced Concrete,41.3,6.63,2438.3,12100.0,7.3,5.0,5.6,1551.9,5.7
+M1717,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1717",FRP Composites,604.6,1829.11,1875.1,143400.0,9.7,5.5,4.8,941.7,9.5
+M1718,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1718",Sustainable & Eco-Friendly,51.5,3.28,2436.9,7000.0,5.0,6.7,4.3,1654.4,6.7
+M1719,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1719",Timber / Engineered Wood,54.5,82.78,681.7,40200.0,9.1,9.4,4.7,1619.2,6.4
+M1720,"Precast Segmental Box Girder M50 (IRC:112) #1720",Precast Concrete,55.1,6.09,2374.4,11700.0,9.3,9.5,5.6,2716.7,6.6
+M1721,"Plain Cement Concrete PCC M20 (IS 456) #1721",Normal Concrete,20.8,2.05,2408.1,5200.0,6.3,5.1,8.0,51.2,9.0
+M1722,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1722",Fiber Reinforced Concrete,39.8,6.54,2448.5,10100.0,6.6,9.8,7.8,119.1,7.2
+M1723,"Plain Cement Concrete PCC M20 (IS 456) #1723",Normal Concrete,24.5,2.11,2413.8,5400.0,7.9,4.3,4.8,1886.5,6.0
+M1724,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1724",Timber / Engineered Wood,51.8,50.59,781.9,54500.0,8.6,4.5,4.6,1503.7,5.8
+M1725,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1725",Ultra High Performance Concrete,104.3,11.41,2504.6,21000.0,5.6,6.6,5.6,2668.9,5.2
+M1726,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1726",High Performance Concrete,65.0,4.45,2478.9,7100.0,9.8,7.2,5.8,1119.6,5.3
+M1727,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1727",Structural Steel,432.0,291.97,7832.1,76000.0,6.2,7.6,6.4,663.1,9.1
+M1728,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1728",Masonry,10.9,0.66,701.7,5000.0,7.8,5.1,4.3,288.1,10.0
+M1729,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1729",Weathering Steel,510.6,445.36,7896.1,73600.0,7.5,9.0,6.1,1303.2,5.6
+M1730,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1730",Timber / Engineered Wood,54.8,72.15,722.1,44500.0,8.2,4.1,5.0,2955.5,5.4
+M1731,"Fly Ash Brick Masonry Class 10 (IS 12894) #1731",Masonry,5.1,1.19,1644.3,3800.0,6.3,7.9,6.3,623.9,8.7
+M1732,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1732",Sustainable & Eco-Friendly,51.4,4.29,2226.4,7900.0,7.6,5.8,6.5,930.1,6.3
+M1733,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1733",Ultra High Performance Concrete,122.6,9.76,2552.5,21500.0,7.5,8.7,9.0,1760.3,8.1
+M1734,"Reinforced Cement Concrete RCC M30 (IS 456) #1734",Normal Concrete,33.4,2.03,2352.3,5600.0,5.4,5.1,7.5,1702.0,8.7
+M1735,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1735",Ultra High Performance Concrete,101.6,8.13,2553.4,17300.0,8.1,4.9,6.8,1538.1,7.9
+M1736,"Underwater Tremie Concrete M30 (IS 456) #1736",Specialty Concrete,22.4,1.93,1549.8,5300.0,7.2,6.1,7.1,949.3,8.4
+M1737,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1737",Specialty Concrete,19.5,1.75,1581.3,6800.0,7.2,5.1,7.9,488.0,7.8
+M1738,"Reinforced Cement Concrete RCC M30 (IS 456) #1738",Normal Concrete,31.0,2.07,2433.2,5600.0,6.1,5.1,6.6,2461.8,9.2
+M1739,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1739",Fiber Reinforced Concrete,56.5,5.02,2403.5,12600.0,8.9,6.7,8.5,2869.1,8.9
+M1740,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1740",Fiber Reinforced Concrete,54.0,5.67,2483.4,9400.0,9.5,6.8,8.1,1516.9,5.5
+M1741,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1741",Non-Ferrous Metals,347.6,373.71,2664.1,179800.0,9.2,7.7,4.2,2709.3,7.8
+M1742,"Reinforced Cement Concrete RCC M30 (IS 456) #1742",Normal Concrete,32.5,3.00,2404.7,4900.0,6.7,5.9,4.1,1768.6,8.5
+M1743,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1743",Masonry,4.7,1.00,562.4,3300.0,5.3,8.4,4.5,2163.5,6.2
+M1744,"Reinforced Cement Concrete RCC M30 (IS 456) #1744",Normal Concrete,32.2,3.15,2432.6,5900.0,9.3,8.2,5.0,851.5,6.1
+M1745,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1745",Weathering Steel,460.4,532.72,7895.3,80100.0,7.5,9.8,5.7,2387.6,6.1
+M1746,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1746",Specialty Concrete,18.8,2.65,1893.0,5600.0,6.1,7.0,9.8,2320.4,7.4
+M1747,"Underwater Tremie Concrete M30 (IS 456) #1747",Specialty Concrete,23.2,2.47,2048.8,6000.0,8.6,7.9,9.8,2796.7,8.9
+M1748,"Plain Cement Concrete PCC M20 (IS 456) #1748",Normal Concrete,24.1,3.02,2364.1,4900.0,6.9,9.0,4.9,1395.7,7.5
+M1749,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1749",Weathering Steel,423.5,527.48,7883.1,77300.0,9.4,8.6,6.5,2257.8,9.8
+M1750,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1750",Non-Ferrous Metals,235.8,370.69,2720.7,126300.0,7.9,7.0,9.1,1615.6,6.3
+M1751,"Reinforced Cement Concrete RCC M30 (IS 456) #1751",Normal Concrete,28.1,2.28,2386.0,5700.0,5.1,7.8,6.1,913.4,7.0
+M1752,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1752",Stainless Steel,666.4,568.70,8046.6,156600.0,9.8,7.7,8.2,929.2,7.1
+M1753,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1753",FRP Composites,769.6,1534.54,1752.2,130100.0,6.9,8.3,8.1,2131.7,7.4
+M1754,"Austenitic Stainless Steel Grade 304 (IS 6911) #1754",Stainless Steel,544.4,706.16,8021.7,181100.0,9.7,4.3,9.1,2992.9,9.4
+M1755,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1755",Sustainable & Eco-Friendly,39.4,3.58,2383.7,6600.0,5.9,8.7,5.9,2747.6,9.2
+M1756,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1756",Structural Steel,491.7,460.88,7829.6,76600.0,9.2,6.8,4.2,1933.7,5.3
+M1757,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1757",FRP Composites,547.1,2019.34,1726.3,86800.0,8.5,7.1,7.9,2674.6,7.2
+M1758,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1758",Sustainable & Eco-Friendly,48.8,4.22,2350.8,6600.0,9.9,8.0,4.3,1013.5,8.1
+M1759,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1759",FRP Composites,360.7,1485.03,1633.1,107900.0,6.3,5.0,8.1,1568.0,6.0
+M1760,"Underwater Tremie Concrete M30 (IS 456) #1760",Specialty Concrete,23.9,1.59,1603.2,5200.0,9.1,8.5,8.5,2163.2,8.3
+M1761,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1761",Timber / Engineered Wood,55.7,37.11,667.5,52200.0,7.5,6.1,5.7,1946.3,8.5
+M1762,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1762",Fiber Reinforced Concrete,43.6,8.08,2456.1,12500.0,7.6,7.1,7.5,2260.5,9.8
+M1763,"Plain Cement Concrete PCC M20 (IS 456) #1763",Normal Concrete,20.8,3.13,2379.5,5400.0,7.4,4.6,8.6,2254.3,6.6
+M1764,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1764",Stainless Steel,667.6,518.09,8076.2,168000.0,8.0,9.6,8.1,1272.6,8.4
+M1765,"Plain Cement Concrete PCC M20 (IS 456) #1765",Normal Concrete,24.2,3.20,2412.6,5500.0,6.8,4.3,4.2,1684.8,8.8
+M1766,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1766",Timber / Engineered Wood,31.3,55.17,533.0,40700.0,5.4,9.7,5.3,2770.8,7.1
+M1767,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1767",Ultra High Performance Concrete,139.9,14.52,2450.8,22200.0,9.5,4.8,4.6,1302.5,9.7
+M1768,"Structural Aluminum Alloy 6063-T6 (IS 733) #1768",Non-Ferrous Metals,279.1,242.58,2600.2,168600.0,5.4,7.8,9.5,665.5,8.3
+M1769,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1769",Stainless Steel,620.8,540.98,8047.2,171100.0,7.3,7.6,5.0,2237.8,6.5
+M1770,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1770",Specialty Concrete,17.4,2.39,1589.7,6300.0,6.2,8.5,5.6,2651.1,9.5
+M1771,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1771",Stainless Steel,615.4,734.06,8073.3,218800.0,7.6,8.7,9.0,1961.7,6.7
+M1772,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1772",Sustainable & Eco-Friendly,51.4,3.75,2430.9,6300.0,8.7,7.8,8.5,1340.2,9.7
+M1773,"Austenitic Stainless Steel Grade 304 (IS 6911) #1773",Stainless Steel,557.7,659.61,7957.4,170600.0,7.0,9.1,7.0,2052.8,7.0
+M1774,"Structural Aluminum Alloy 6063-T6 (IS 733) #1774",Non-Ferrous Metals,343.2,316.57,2786.8,132200.0,5.7,9.1,8.1,600.4,6.3
+M1775,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1775",Stainless Steel,590.8,667.64,7963.7,176700.0,10.0,5.5,7.0,2541.0,6.2
+M1776,"Reinforced Cement Concrete RCC M30 (IS 456) #1776",Normal Concrete,29.2,2.58,2368.9,5000.0,7.9,7.7,7.9,257.6,8.2
+M1777,"Reinforced Cement Concrete RCC M30 (IS 456) #1777",Normal Concrete,28.1,2.86,2383.5,5800.0,9.6,5.1,6.6,1207.5,7.0
+M1778,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1778",High Performance Concrete,64.4,3.88,2452.8,9600.0,6.0,9.4,9.0,1439.7,7.1
+M1779,"Fly Ash Brick Masonry Class 10 (IS 12894) #1779",Masonry,11.8,0.54,1604.4,5900.0,6.1,9.2,4.2,2742.7,5.6
+M1780,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1780",Timber / Engineered Wood,40.0,81.01,629.3,29700.0,7.9,6.4,8.0,2651.6,7.0
+M1781,"Fly Ash Brick Masonry Class 10 (IS 12894) #1781",Masonry,3.1,1.09,1040.4,6400.0,6.0,6.1,6.1,74.9,9.2
+M1782,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1782",Weathering Steel,512.8,535.97,7853.6,83600.0,8.3,6.3,7.9,182.1,5.3
+M1783,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1783",Masonry,9.6,1.38,712.2,5900.0,6.1,6.4,5.9,1230.5,5.8
+M1784,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1784",FRP Composites,710.7,1473.99,1696.2,138700.0,8.5,6.9,5.5,2660.5,7.9
+M1785,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1785",Ultra High Performance Concrete,114.2,13.62,2456.6,24900.0,5.7,8.8,6.4,1502.0,9.4
+M1786,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1786",FRP Composites,591.9,964.09,1500.9,93400.0,8.4,4.7,4.7,1262.3,8.2
+M1787,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1787",Structural Steel,273.9,579.14,7826.1,75600.0,9.3,8.6,5.0,2474.3,8.8
+M1788,"Structural Aluminum Alloy 6063-T6 (IS 733) #1788",Non-Ferrous Metals,250.6,262.00,2624.4,150600.0,7.9,6.2,6.9,1122.4,8.2
+M1789,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1789",Timber / Engineered Wood,36.6,55.98,499.3,46900.0,8.6,9.6,5.7,2853.1,5.3
+M1790,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1790",Stainless Steel,656.9,706.61,8082.8,211600.0,10.0,5.5,8.6,1780.1,6.3
+M1791,"Underwater Tremie Concrete M30 (IS 456) #1791",Specialty Concrete,28.5,1.67,1518.3,7100.0,8.0,9.6,5.4,298.9,6.3
+M1792,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1792",FRP Composites,366.2,2089.32,1640.8,105800.0,5.1,5.6,8.8,1865.7,8.8
+M1793,"Austenitic Stainless Steel Grade 304 (IS 6911) #1793",Stainless Steel,561.9,620.70,7964.6,208700.0,6.5,8.0,4.8,2076.3,9.6
+M1794,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1794",High Performance Concrete,56.8,5.91,2462.7,8000.0,6.5,8.2,8.4,945.3,6.7
+M1795,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1795",Masonry,4.2,0.85,646.8,5900.0,5.5,8.0,4.3,2034.9,9.2
+M1796,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1796",Ultra High Performance Concrete,137.0,10.81,2495.1,22800.0,6.4,8.3,5.2,787.1,6.7
+M1797,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1797",Sustainable & Eco-Friendly,41.4,4.86,2253.4,5500.0,8.9,8.9,4.4,1852.2,6.9
+M1798,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1798",Sustainable & Eco-Friendly,51.9,5.13,2394.3,6400.0,9.1,7.2,4.3,1398.0,9.7
+M1799,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1799",Ultra High Performance Concrete,130.6,8.71,2556.1,14300.0,9.4,4.8,4.8,568.2,9.8
+M1800,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1800",Sustainable & Eco-Friendly,49.3,3.90,2245.8,7700.0,6.6,9.2,4.7,1328.7,7.0
+M1801,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1801",Fiber Reinforced Concrete,38.8,5.04,2423.8,12200.0,6.0,5.4,4.8,2160.5,5.3
+M1802,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1802",Weathering Steel,433.9,492.17,7873.0,83300.0,9.7,9.7,6.2,2344.2,8.7
+M1803,"Underwater Tremie Concrete M30 (IS 456) #1803",Specialty Concrete,24.9,2.74,2010.8,5200.0,9.4,9.2,6.7,1778.3,9.9
+M1804,"Duplex Stainless Steel 2205 (IS 6911 / UNS S32205) #1804",Stainless Steel,681.1,520.76,7938.2,180900.0,7.9,8.9,9.9,1197.1,5.2
+M1805,"Structural Aluminum Alloy 6063-T6 (IS 733) #1805",Non-Ferrous Metals,290.7,251.77,2699.0,164500.0,8.9,7.0,5.8,2922.5,8.3
+M1806,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1806",Specialty Concrete,19.2,2.45,1669.5,5500.0,7.6,5.7,7.8,397.9,8.3
+M1807,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1807",Precast Concrete,38.8,6.30,2480.1,9100.0,8.9,7.7,9.8,1152.1,8.4
+M1808,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1808",FRP Composites,528.3,2152.96,1715.6,96600.0,5.6,8.2,7.9,1153.1,9.8
+M1809,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1809",Structural Steel,341.1,572.37,7832.1,57600.0,7.7,8.9,4.6,2831.9,9.0
+M1810,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1810",Ultra High Performance Concrete,154.1,10.69,2510.3,22600.0,9.8,4.8,6.5,1468.8,6.9
+M1811,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1811",Structural Steel,265.7,489.94,7843.6,55800.0,9.1,8.8,6.9,930.4,8.2
+M1812,"Plain Cement Concrete PCC M20 (IS 456) #1812",Normal Concrete,23.5,2.88,2306.0,4600.0,5.0,4.9,4.4,2987.6,6.4
+M1813,"Austenitic Stainless Steel Grade 304 (IS 6911) #1813",Stainless Steel,548.2,734.03,8004.0,175500.0,9.4,6.4,6.0,661.5,6.9
+M1814,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1814",Stainless Steel,635.5,572.40,8015.4,154600.0,6.0,6.4,9.6,1162.9,8.3
+M1815,"Plain Cement Concrete PCC M20 (IS 456) #1815",Normal Concrete,21.9,2.07,2345.8,4700.0,5.9,8.6,4.1,1695.5,6.9
+M1816,"Fly Ash Brick Masonry Class 10 (IS 12894) #1816",Masonry,9.8,0.74,1007.4,5600.0,9.4,5.2,4.6,2698.5,6.7
+M1817,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1817",Timber / Engineered Wood,44.4,41.92,656.3,43400.0,6.0,6.7,8.8,1791.8,5.5
+M1818,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1818",Fiber Reinforced Concrete,52.6,8.17,2462.9,9200.0,8.6,8.1,4.1,1264.7,6.7
+M1819,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1819",Ultra High Performance Concrete,109.5,12.14,2587.0,22800.0,9.6,9.9,4.1,1887.1,7.1
+M1820,"Austenitic Stainless Steel Grade 304 (IS 6911) #1820",Stainless Steel,536.1,532.51,7965.5,164700.0,7.5,6.9,9.4,152.5,6.6
+M1821,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1821",Weathering Steel,472.6,482.42,7881.6,71600.0,9.1,7.0,4.8,2662.8,8.2
+M1822,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1822",Ultra High Performance Concrete,93.0,8.99,2541.3,16000.0,6.1,4.2,8.3,2440.6,9.0
+M1823,"Structural Aluminum Alloy 6061-T6 (IS 733) #1823",Non-Ferrous Metals,335.5,327.56,2779.5,146800.0,7.2,8.7,4.6,1586.6,9.2
+M1824,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1824",Ultra High Performance Concrete,176.1,12.89,2481.2,14200.0,7.4,7.1,5.4,417.9,7.9
+M1825,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1825",Structural Steel,547.9,515.41,7879.4,68500.0,9.9,7.8,9.2,2840.1,9.6
+M1826,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1826",Weathering Steel,409.4,442.34,7805.9,72600.0,5.9,6.0,7.3,2149.5,6.1
+M1827,"Duplex Stainless Steel 2205 (IS 6911 / UNS S32205) #1827",Stainless Steel,680.6,716.06,7992.9,202100.0,8.1,8.8,6.6,2368.1,7.3
+M1828,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1828",Stainless Steel,597.3,615.65,8057.0,207500.0,7.8,5.1,6.8,2905.8,8.8
+M1829,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1829",Structural Steel,259.8,413.75,7864.7,74900.0,5.2,9.1,7.3,632.1,6.6
+M1830,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1830",Timber / Engineered Wood,51.2,37.84,505.5,53400.0,5.7,5.4,6.7,1575.5,8.8
+M1831,"Engineered Teak & Hardwood Composite (IS 3629) #1831",Timber / Engineered Wood,61.6,69.01,489.6,30500.0,7.2,6.4,8.5,1763.2,6.9
+M1832,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1832",FRP Composites,452.1,1648.15,1669.4,113600.0,5.9,8.0,9.1,810.9,7.5
+M1833,"Structural Aluminum Alloy 6063-T6 (IS 733) #1833",Non-Ferrous Metals,250.0,315.21,2618.0,156400.0,5.4,9.8,8.3,2375.1,8.5
+M1834,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1834",Stainless Steel,590.0,714.59,8091.4,184900.0,9.7,7.5,7.2,1390.7,6.0
+M1835,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1835",Fiber Reinforced Concrete,41.0,7.04,2438.0,10500.0,9.9,6.1,6.7,443.9,5.2
+M1836,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1836",Stainless Steel,614.1,690.18,7930.0,190000.0,6.3,5.4,4.1,434.5,6.5
+M1837,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1837",FRP Composites,793.6,1301.22,1552.1,89900.0,7.9,4.4,9.2,2886.4,6.2
+M1838,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1838",Specialty Concrete,15.3,2.33,1789.7,5800.0,6.0,7.9,6.5,580.0,8.4
+M1839,"Precast Pier Cap & U-Girder M60 (IRC:112) #1839",Precast Concrete,60.8,3.85,2467.8,11000.0,5.6,8.2,6.6,2837.7,5.7
+M1840,"Fly Ash Brick Masonry Class 10 (IS 12894) #1840",Masonry,7.6,1.45,1061.5,6400.0,9.5,5.6,8.8,2987.0,6.3
+M1841,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1841",FRP Composites,625.1,2153.27,1538.2,76700.0,5.3,4.3,9.4,2177.7,8.4
+M1842,"Reinforced Cement Concrete RCC M30 (IS 456) #1842",Normal Concrete,31.7,2.19,2358.8,5200.0,5.6,6.5,5.9,155.0,5.7
+M1843,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1843",Fiber Reinforced Concrete,35.5,8.74,2408.6,12100.0,9.5,9.6,9.2,898.3,6.7
+M1844,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1844",Fiber Reinforced Concrete,38.5,5.09,2486.9,11000.0,8.0,9.6,8.0,2088.0,8.9
+M1845,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1845",Fiber Reinforced Concrete,44.0,8.87,2492.3,12500.0,7.3,9.1,4.3,488.1,7.1
+M1846,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1846",High Performance Concrete,47.9,4.58,2416.3,9000.0,9.0,8.0,4.6,1488.4,8.5
+M1847,"Underwater Tremie Concrete M30 (IS 456) #1847",Specialty Concrete,20.9,2.31,2178.0,5300.0,7.0,6.4,7.5,498.9,5.9
+M1848,"Underwater Tremie Concrete M30 (IS 456) #1848",Specialty Concrete,29.3,2.45,1963.2,7500.0,5.6,9.2,7.6,1039.2,9.1
+M1849,"Precast Pier Cap & U-Girder M60 (IRC:112) #1849",Precast Concrete,60.4,3.85,2495.4,12300.0,6.8,4.4,5.0,2978.9,7.8
+M1850,"Underwater Tremie Concrete M30 (IS 456) #1850",Specialty Concrete,26.6,2.58,1619.4,7700.0,8.3,9.3,6.9,1649.0,9.6
+M1851,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1851",Fiber Reinforced Concrete,46.2,6.10,2439.3,10200.0,6.4,5.6,9.2,256.1,8.4
+M1852,"Structural Aluminum Alloy 6063-T6 (IS 733) #1852",Non-Ferrous Metals,251.7,229.85,2654.0,166100.0,9.4,5.3,6.8,1437.5,9.4
+M1853,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1853",Timber / Engineered Wood,50.5,71.89,746.6,25300.0,7.0,9.4,8.4,1651.4,7.6
+M1854,"Reinforced Cement Concrete RCC M25 (IS 456) #1854",Normal Concrete,27.8,2.79,2362.8,5600.0,9.3,4.9,6.7,1253.7,8.4
+M1855,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1855",Stainless Steel,628.1,719.37,7983.6,213800.0,10.0,4.6,5.4,2853.6,9.8
+M1856,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1856",Sustainable & Eco-Friendly,30.4,3.40,2449.0,6100.0,7.5,9.1,4.1,1833.2,6.4
+M1857,"Fly Ash Brick Masonry Class 10 (IS 12894) #1857",Masonry,6.4,1.16,1595.0,3800.0,5.2,6.5,5.7,2436.5,9.0
+M1858,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1858",FRP Composites,622.9,1685.54,1830.9,106900.0,6.4,5.6,7.2,1375.0,7.2
+M1859,"Reinforced Cement Concrete RCC M30 (IS 456) #1859",Normal Concrete,30.8,2.26,2329.5,5100.0,6.1,7.5,6.2,1374.3,7.7
+M1860,"Fly Ash Brick Masonry Class 10 (IS 12894) #1860",Masonry,4.9,1.37,1222.3,4400.0,5.2,7.0,7.3,1698.6,8.5
+M1861,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1861",Weathering Steel,430.3,525.39,7894.7,73400.0,7.5,5.3,4.4,1010.2,5.7
+M1862,"Reinforced Cement Concrete RCC M30 (IS 456) #1862",Normal Concrete,28.0,2.17,2301.4,5700.0,5.9,7.6,6.0,1777.2,6.6
+M1863,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1863",Weathering Steel,426.8,444.45,7842.8,86500.0,6.3,4.1,7.1,1837.0,9.8
+M1864,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1864",Stainless Steel,594.2,643.35,8085.6,208000.0,6.6,5.4,5.6,1538.0,8.7
+M1865,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1865",Structural Steel,270.3,503.25,7880.6,58700.0,8.3,6.6,9.3,2543.4,7.6
+M1866,"Structural Aluminum Alloy 6063-T6 (IS 733) #1866",Non-Ferrous Metals,332.5,299.31,2662.7,165200.0,6.1,6.3,9.2,2187.0,7.0
+M1867,"Austenitic Stainless Steel Grade 304 (IS 6911) #1867",Stainless Steel,571.2,571.03,7935.2,202000.0,6.3,6.7,6.3,2947.1,7.0
+M1868,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1868",FRP Composites,390.4,1667.98,1739.7,106400.0,7.2,4.3,7.1,1539.0,5.7
+M1869,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1869",Fiber Reinforced Concrete,38.1,5.40,2461.0,9400.0,6.3,5.0,9.7,2571.1,6.2
+M1870,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1870",Timber / Engineered Wood,46.7,75.52,489.7,53200.0,6.3,5.5,7.5,256.8,5.1
+M1871,"Precast Segmental Box Girder M50 (IRC:112) #1871",Precast Concrete,51.1,6.22,2477.0,10200.0,5.2,7.2,8.2,1050.5,5.6
+M1872,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1872",Stainless Steel,654.3,587.81,8062.4,172400.0,5.8,6.6,6.7,97.5,5.6
+M1873,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1873",Fiber Reinforced Concrete,37.8,6.37,2496.5,10800.0,8.1,6.1,5.9,118.3,7.5
+M1874,"Plain Cement Concrete PCC M20 (IS 456) #1874",Normal Concrete,22.4,2.92,2373.9,5000.0,5.7,7.3,8.5,881.9,6.1
+M1875,"Austenitic Stainless Steel Grade 304 (IS 6911) #1875",Stainless Steel,531.1,666.65,8021.1,156100.0,5.2,7.7,5.8,305.0,8.8
+M1876,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1876",Ultra High Performance Concrete,111.3,12.39,2495.2,24600.0,8.5,4.8,6.5,1187.0,7.7
+M1877,"Reinforced Cement Concrete RCC M30 (IS 456) #1877",Normal Concrete,28.8,2.07,2398.3,4500.0,8.9,8.0,5.9,912.7,9.0
+M1878,"Reinforced Cement Concrete RCC M25 (IS 456) #1878",Normal Concrete,25.3,2.36,2384.0,4500.0,5.4,4.8,5.1,1560.5,10.0
+M1879,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1879",Fiber Reinforced Concrete,36.5,7.10,2449.7,9100.0,9.6,6.6,10.0,1289.2,8.0
+M1880,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1880",Timber / Engineered Wood,48.2,48.13,742.4,52400.0,9.1,8.3,9.0,642.4,7.3
+M1881,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1881",Weathering Steel,476.5,513.13,7822.4,72500.0,9.6,7.4,4.9,2390.6,9.6
+M1882,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1882",Sustainable & Eco-Friendly,50.4,5.33,2434.6,8700.0,7.7,6.1,4.0,229.7,7.1
+M1883,"Austenitic Stainless Steel Grade 304 (IS 6911) #1883",Stainless Steel,536.9,598.87,7934.9,209400.0,6.5,7.6,7.0,203.1,9.7
+M1884,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1884",Weathering Steel,439.0,440.56,7833.9,70500.0,6.8,7.2,9.2,2077.8,5.6
+M1885,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1885",Masonry,8.1,0.62,593.2,5800.0,5.1,9.0,4.9,2925.3,8.0
+M1886,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1886",Ultra High Performance Concrete,99.9,14.03,2575.9,21200.0,7.5,8.3,4.0,1797.7,9.2
+M1887,"Structural Aluminum Alloy 6063-T6 (IS 733) #1887",Non-Ferrous Metals,216.2,287.34,2745.4,126400.0,6.0,4.9,8.8,235.5,8.4
+M1888,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1888",High Performance Concrete,62.7,5.92,2411.5,8300.0,9.1,5.6,5.3,2484.9,9.9
+M1889,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1889",Specialty Concrete,19.2,2.02,1619.1,7300.0,8.9,9.3,4.2,1707.8,6.1
+M1890,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1890",Weathering Steel,494.2,444.96,7863.8,86400.0,9.8,8.7,8.8,1618.2,5.9
+M1891,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1891",FRP Composites,597.3,1781.95,1743.1,104500.0,6.3,5.0,8.2,1953.9,8.4
+M1892,"Structural Aluminum Alloy 6061-T6 (IS 733) #1892",Non-Ferrous Metals,239.4,341.56,2754.7,147300.0,8.1,6.2,8.2,2515.4,8.4
+M1893,"Reinforced Cement Concrete RCC M25 (IS 456) #1893",Normal Concrete,26.9,2.77,2402.0,5300.0,8.1,4.6,9.7,2382.8,6.9
+M1894,"Autoclaved Aerated Concrete AAC Block (IS 2185 Part 3) #1894",Masonry,3.6,0.45,938.7,5400.0,9.3,7.4,7.2,1236.8,5.8
+M1895,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1895",Weathering Steel,491.3,540.58,7845.8,86500.0,9.6,4.5,8.6,1869.6,8.0
+M1896,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1896",Weathering Steel,482.1,523.32,7811.3,83300.0,5.5,9.2,7.0,2433.5,6.8
+M1897,"Recycled Aggregate Concrete RAC M25 (IS 383 / IS 456) #1897",Sustainable & Eco-Friendly,31.0,3.70,2261.1,7500.0,5.1,7.1,6.4,1752.5,8.5
+M1898,"Wire-cut Clay Brick Masonry Class 15 (IS 1077) #1898",Masonry,14.8,0.55,1216.1,4500.0,7.1,8.0,6.9,1576.4,7.2
+M1899,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1899",High Performance Concrete,67.8,4.48,2411.2,10400.0,10.0,5.8,6.1,2827.8,8.6
+M1900,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1900",Weathering Steel,469.7,542.75,7881.2,88500.0,8.7,5.1,8.9,864.5,9.7
+M1901,"Engineered Teak & Hardwood Composite (IS 3629) #1901",Timber / Engineered Wood,64.3,49.64,630.1,28700.0,8.3,9.0,8.3,1593.6,5.2
+M1902,"Engineered Teak & Hardwood Composite (IS 3629) #1902",Timber / Engineered Wood,58.2,76.02,728.1,51200.0,7.2,8.4,7.8,2569.3,9.0
+M1903,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1903",Fiber Reinforced Concrete,44.5,5.14,2410.2,11200.0,9.4,4.7,6.7,2737.1,9.1
+M1904,"Underwater Tremie Concrete M30 (IS 456) #1904",Specialty Concrete,26.6,2.18,1610.7,5400.0,5.9,6.1,9.6,2409.1,7.2
+M1905,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1905",Sustainable & Eco-Friendly,36.6,4.76,2400.7,6300.0,5.2,7.7,7.4,1236.3,8.2
+M1906,"Structural Aluminum Alloy 6063-T6 (IS 733) #1906",Non-Ferrous Metals,237.6,283.64,2685.6,172800.0,9.8,9.4,8.3,1775.7,8.4
+M1907,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1907",Specialty Concrete,18.7,2.20,1982.7,7000.0,6.3,7.5,8.8,1451.5,9.0
+M1908,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1908",High Performance Concrete,68.2,4.97,2459.6,7100.0,5.9,7.8,6.5,1549.1,5.3
+M1909,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1909",High Performance Concrete,63.5,4.21,2463.4,10300.0,8.2,5.9,7.9,670.9,6.6
+M1910,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1910",Fiber Reinforced Concrete,48.9,5.43,2493.3,10000.0,6.1,7.0,5.7,1628.0,6.7
+M1911,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1911",Fiber Reinforced Concrete,41.6,6.75,2403.0,12000.0,8.1,7.6,7.3,1791.4,9.7
+M1912,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1912",Ultra High Performance Concrete,128.6,10.86,2467.1,21400.0,8.5,8.3,8.4,50.2,9.8
+M1913,"Roller Compacted Concrete RCC-Pavement (IRC:SP:68) #1913",Specialty Concrete,15.2,2.71,2066.9,7500.0,5.5,8.4,9.8,2051.7,7.9
+M1914,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1914",Weathering Steel,415.1,533.78,7851.2,80100.0,5.8,8.2,9.6,1157.4,6.2
+M1915,"Glued Laminated Timber Glulam Beam (IS 883 / IS 1708) #1915",Timber / Engineered Wood,61.8,35.21,671.0,45900.0,6.6,6.7,5.5,2380.2,8.2
+M1916,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1916",Ultra High Performance Concrete,125.3,10.04,2573.4,19000.0,7.5,7.1,6.7,805.5,5.6
+M1917,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1917",Ultra High Performance Concrete,158.2,9.56,2458.4,22800.0,5.8,7.8,6.0,423.1,7.1
+M1918,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1918",Sustainable & Eco-Friendly,51.0,4.28,2234.8,6300.0,7.2,5.1,5.6,1626.4,9.2
+M1919,"Structural Aluminum Alloy 6061-T6 (IS 733) #1919",Non-Ferrous Metals,307.5,360.27,2643.3,168400.0,8.8,6.1,9.9,824.6,6.3
+M1920,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1920",FRP Composites,659.3,1723.27,1824.3,78400.0,6.5,5.7,4.9,903.1,6.5
+M1921,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1921",Weathering Steel,479.6,469.54,7871.9,78400.0,6.5,7.2,4.1,285.4,7.1
+M1922,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1922",Fiber Reinforced Concrete,53.0,5.35,2484.6,11800.0,8.1,8.9,6.4,703.4,7.6
+M1923,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1923",High Performance Concrete,57.2,4.78,2466.8,9500.0,5.1,7.2,4.5,127.8,9.0
+M1924,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1924",FRP Composites,503.3,983.31,1571.8,132400.0,7.5,9.3,6.4,842.7,6.7
+M1925,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1925",FRP Composites,599.8,2075.45,1740.9,112000.0,8.9,9.7,6.1,787.1,8.1
+M1926,"High Performance Concrete HPC M60 (IS 456 / IRC:112) #1926",High Performance Concrete,69.7,4.82,2407.4,10900.0,9.2,5.1,9.4,1055.0,6.9
+M1927,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1927",FRP Composites,588.6,1079.09,1647.6,129200.0,5.9,7.5,8.2,1064.4,8.5
+M1928,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1928",Timber / Engineered Wood,48.9,56.06,537.9,46100.0,9.4,5.9,6.4,1249.5,7.8
+M1929,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1929",Weathering Steel,424.2,430.17,7878.8,90900.0,5.8,9.1,8.1,1584.2,9.2
+M1930,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1930",Fiber Reinforced Concrete,39.8,6.14,2450.5,10900.0,9.0,8.7,7.5,2353.3,6.0
+M1931,"Austenitic Stainless Steel Grade 316L (IS 6911 Marine) #1931",Stainless Steel,674.7,518.89,7949.3,198700.0,7.0,9.3,5.8,85.0,6.5
+M1932,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1932",Weathering Steel,445.1,489.53,7887.7,92800.0,6.3,6.8,7.3,2849.9,10.0
+M1933,"Engineered Teak & Hardwood Composite (IS 3629) #1933",Timber / Engineered Wood,59.1,55.79,452.8,25300.0,7.3,6.9,4.1,2076.4,6.5
+M1934,"Plain Cement Concrete PCC M20 (IS 456) #1934",Normal Concrete,24.7,2.02,2314.4,4900.0,5.3,7.6,4.5,2120.1,5.3
+M1935,"Fly Ash Brick Masonry Class 10 (IS 12894) #1935",Masonry,6.7,1.39,1544.2,5700.0,5.7,9.0,4.0,678.5,8.1
+M1936,"Reinforced Cement Concrete RCC M30 (IS 456) #1936",Normal Concrete,34.8,2.04,2449.8,5400.0,7.8,4.4,5.6,2777.8,6.8
+M1937,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1937",FRP Composites,799.8,1241.99,1730.4,127200.0,5.8,4.9,6.7,1188.1,8.6
+M1938,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1938",Weathering Steel,516.7,421.86,7860.1,84100.0,5.7,4.9,8.8,2668.3,6.4
+M1939,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1939",FRP Composites,509.7,994.31,1769.3,136900.0,6.5,9.9,4.5,2002.3,7.2
+M1940,"Underwater Tremie Concrete M30 (IS 456) #1940",Specialty Concrete,21.9,1.84,2000.9,7200.0,6.4,9.0,5.9,2189.0,5.6
+M1941,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1941",Weathering Steel,437.9,497.20,7864.6,79900.0,5.4,6.2,8.1,2029.4,5.8
+M1942,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1942",Sustainable & Eco-Friendly,48.8,3.27,2220.6,5500.0,7.2,7.0,7.8,923.4,8.6
+M1943,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1943",Structural Steel,499.6,450.15,7858.4,56300.0,5.4,6.8,7.7,330.4,9.8
+M1944,"Structural Aluminum Alloy 6082-T6 (IS 733 Heavy Duty) #1944",Non-Ferrous Metals,281.8,372.01,2635.9,121500.0,5.2,7.5,4.4,2877.7,5.7
+M1945,"Reinforced Cement Concrete RCC M30 (IS 456) #1945",Normal Concrete,29.4,2.23,2370.4,5600.0,7.6,6.4,5.9,1850.7,9.7
+M1946,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1946",Structural Steel,272.4,411.24,7889.1,52800.0,9.9,9.7,4.5,2803.6,6.8
+M1947,"Basalt Fiber Reinforced Polymer (BFRP Grid Matrix) #1947",FRP Composites,538.3,1473.11,1753.7,133100.0,5.2,7.6,5.1,1070.6,6.7
+M1948,"Precast Segmental Box Girder M50 (IRC:112) #1948",Precast Concrete,45.0,3.82,2371.8,8200.0,7.4,9.7,4.7,2841.5,8.7
+M1949,"Precast Segmental Box Girder M50 (IRC:112) #1949",Precast Concrete,54.4,5.98,2366.0,10300.0,8.5,7.5,9.0,263.2,8.5
+M1950,"Precast Segmental Box Girder M50 (IRC:112) #1950",Precast Concrete,46.4,4.52,2443.1,12000.0,7.5,8.9,6.4,352.1,5.3
+M1951,"Structural Aluminum Alloy 6063-T6 (IS 733) #1951",Non-Ferrous Metals,257.0,273.96,2743.6,164600.0,5.3,5.3,5.6,1665.5,5.7
+M1952,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1952",Sustainable & Eco-Friendly,53.6,5.01,2245.2,6900.0,6.8,8.7,7.1,427.2,8.7
+M1953,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1953",Structural Steel,328.9,381.42,7849.8,60300.0,6.2,6.4,4.1,2328.9,5.9
+M1954,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1954",Weathering Steel,478.4,520.61,7881.4,82300.0,6.0,8.4,8.2,776.5,9.5
+M1955,"Carbon Fiber Reinforced Polymer (CFRP Laminate IRC:112) #1955",FRP Composites,792.2,2018.32,1775.2,145400.0,8.6,5.1,6.7,260.9,6.9
+M1956,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1956",Fiber Reinforced Concrete,44.7,6.32,2459.5,12400.0,5.2,6.3,4.9,2101.3,5.5
+M1957,"Recycled Aggregate Concrete RAC M30 (IS 383 / IS 456) #1957",Sustainable & Eco-Friendly,37.2,3.50,2434.1,5600.0,7.2,4.1,6.9,1528.1,6.6
+M1958,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1958",Weathering Steel,445.2,507.39,7878.2,83300.0,7.9,5.2,5.7,527.6,6.2
+M1959,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1959",Fiber Reinforced Concrete,58.0,6.49,2490.2,12600.0,9.7,5.6,6.4,2617.7,6.8
+M1960,"Structural Steel Fe 250 / E250 Grade A (IS 2062) #1960",Structural Steel,285.4,269.70,7841.2,67400.0,7.0,7.5,7.1,2072.8,8.2
+M1961,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1961",Fiber Reinforced Concrete,45.6,5.56,2451.3,11100.0,7.4,6.0,8.3,270.3,9.6
+M1962,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1962",Sustainable & Eco-Friendly,54.1,4.16,2303.2,6400.0,5.1,5.6,4.7,1996.5,6.6
+M1963,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1963",Fiber Reinforced Concrete,40.2,8.60,2452.3,9000.0,7.0,5.2,5.2,1543.8,8.4
+M1964,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1964",Sustainable & Eco-Friendly,42.6,5.41,2435.4,8500.0,7.5,4.8,5.3,1960.6,7.1
+M1965,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1965",Sustainable & Eco-Friendly,42.0,3.04,2383.5,5800.0,8.1,8.8,4.8,1580.0,8.9
+M1966,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1966",Precast Concrete,39.9,4.51,2433.2,10600.0,5.7,6.7,5.6,2534.0,6.6
+M1967,"TMT Rebar Fe 500 / Fe 500D (IS 1786 High-Ductility) #1967",Structural Steel,378.6,504.31,7851.0,68700.0,7.0,8.6,6.6,1399.5,7.6
+M1968,"Fly Ash Brick Masonry Class 10 (IS 12894) #1968",Masonry,7.2,1.14,1545.8,6300.0,9.2,7.9,6.0,2349.8,7.9
+M1969,"Structural Aluminum Alloy 6063-T6 (IS 733) #1969",Non-Ferrous Metals,237.1,232.74,2614.0,158400.0,9.7,4.0,8.4,1988.3,8.7
+M1970,"Glass Fiber Reinforced Polymer (GFRP Rebar IS 18255) #1970",FRP Composites,719.2,958.12,1802.2,95000.0,7.4,8.9,5.6,596.4,8.4
+M1971,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1971",High Performance Concrete,56.1,5.99,2439.9,9500.0,6.8,6.4,8.2,2816.8,7.7
+M1972,"Cross-Laminated Timber CLT 5-Ply (IS 1708 / EC5) #1972",Timber / Engineered Wood,33.6,46.61,625.7,25700.0,6.3,7.1,4.1,830.4,7.6
+M1973,"Structural Aluminum Alloy 6061-T6 (IS 733) #1973",Non-Ferrous Metals,338.9,323.26,2682.9,175800.0,8.9,5.2,4.8,2043.6,7.8
+M1974,"Ultra High Performance Concrete UHPC M150 (IRC:112) #1974",Ultra High Performance Concrete,156.5,12.38,2598.0,19900.0,5.6,9.0,5.5,2343.0,9.8
+M1975,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1975",Weathering Steel,471.5,479.85,7836.4,78800.0,8.2,8.5,8.1,635.3,7.5
+M1976,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1976",Ultra High Performance Concrete,132.8,11.76,2565.7,21300.0,7.0,9.4,5.0,2986.8,5.6
+M1977,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1977",Sustainable & Eco-Friendly,52.3,3.61,2382.4,8300.0,9.3,9.9,5.8,2145.2,5.6
+M1978,"Fiber Reinforced Concrete FRC M50 Heavy Duty (IRC:112) #1978",Fiber Reinforced Concrete,56.2,6.47,2459.1,10800.0,8.2,9.8,4.3,1743.2,9.3
+M1979,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1979",Fiber Reinforced Concrete,37.0,7.24,2433.2,9200.0,9.2,7.1,9.6,2427.7,8.5
+M1980,"Fiber Reinforced Concrete FRC M35 Polypropylene (IS 456) #1980",Fiber Reinforced Concrete,45.7,5.79,2491.1,9300.0,6.4,7.1,5.6,669.1,8.0
+M1981,"Cor-Ten Weathering Steel Fe 350 (IS 11587 / ASTM A588) #1981",Weathering Steel,407.0,468.39,7872.1,83900.0,7.1,7.4,6.2,2811.6,5.3
+M1982,"Geopolymer Concrete GeoC50 (Alkali Slag-Silica, IS 17452) #1982",Sustainable & Eco-Friendly,52.3,5.01,2246.0,6500.0,8.6,4.5,8.9,2170.8,8.6
+M1983,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1983",Sustainable & Eco-Friendly,47.9,4.70,2407.7,5600.0,5.1,6.2,4.9,1697.2,9.6
+M1984,"Ultra High Performance Concrete UHPC M180 Reactive Powder #1984",Ultra High Performance Concrete,166.0,8.00,2475.3,14300.0,6.6,9.4,4.6,1838.9,7.3
+M1985,"Precast Prestressed Hollow Core Slab M40 (IS 15916) #1985",Precast Concrete,38.7,4.14,2354.4,10000.0,6.4,9.2,7.6,1861.6,7.7
+M1986,"Structural Aluminum Alloy 6061-T6 (IS 733) #1986",Non-Ferrous Metals,297.1,329.90,2755.3,138700.0,7.8,9.9,9.4,2860.4,6.9
+M1987,"Precast Segmental Box Girder M50 (IRC:112) #1987",Precast Concrete,53.6,3.75,2473.6,11000.0,6.0,4.5,9.0,282.8,5.5
+M1988,"Fiber Reinforced Concrete FRC M40 Hooked Steel-Fiber (IS 456) #1988",Fiber Reinforced Concrete,38.4,8.65,2447.0,11100.0,9.6,7.2,6.1,2401.6,7.2
+M1989,"Fly Ash Brick Masonry Class 10 (IS 12894) #1989",Masonry,11.7,1.28,1777.2,6400.0,8.9,8.6,9.1,50.5,6.8
+M1990,"Geopolymer Concrete GeoC40 (Fly-Ash Based, IS 17452) #1990",Sustainable & Eco-Friendly,45.0,3.44,2275.9,6700.0,7.8,9.0,9.6,2262.8,9.2
+M1991,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1991",Ultra High Performance Concrete,125.1,10.75,2542.4,15400.0,7.9,8.0,6.6,2861.8,8.0
+M1992,"Precast Segmental Box Girder M50 (IRC:112) #1992",Precast Concrete,55.3,4.47,2361.9,10600.0,9.7,6.9,9.4,2513.3,5.7
+M1993,"High Performance Concrete HPC M50 (IS 456 / IRC:112) #1993",High Performance Concrete,53.1,4.35,2468.7,10000.0,5.9,9.5,8.5,2803.5,6.6
+M1994,"Reinforced Cement Concrete RCC M25 (IS 456) #1994",Normal Concrete,25.5,2.06,2414.4,5600.0,8.0,6.9,4.2,1892.6,7.1
+M1995,"TMT Rebar Fe 550D / Fe 600 (IS 1786 Seismic Grade) #1995",Structural Steel,378.8,588.12,7860.4,72500.0,9.7,7.5,4.1,151.2,8.5
+M1996,"Cor-Ten Weathering Steel Fe 490 (IS 11587 / ASTM A588) #1996",Weathering Steel,469.5,446.30,7827.0,82600.0,9.9,7.7,9.6,2880.2,6.0
+M1997,"Reinforced Cement Concrete RCC M30 (IS 456) #1997",Normal Concrete,31.5,3.04,2377.9,6000.0,5.1,5.8,7.7,1434.4,5.6
+M1998,"Ultra High Performance Concrete UHPC M120 (IRC:112) #1998",Ultra High Performance Concrete,92.3,12.50,2583.9,23700.0,8.5,6.8,7.1,453.9,6.7
+M1999,"Structural Steel Fe 410 / E350 Grade B (IS 2062) #1999",Structural Steel,408.0,360.85,7825.8,51100.0,7.9,5.4,4.9,1978.8,8.4
+M2000,"Underwater Tremie Concrete M30 (IS 456) #2000",Specialty Concrete,22.6,2.66,2155.4,7400.0,8.2,5.8,9.9,858.7,6.0
